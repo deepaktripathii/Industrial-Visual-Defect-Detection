@@ -1,0 +1,40 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual envs
+.venv/
+venv/
+
+# Packaging
+build/
+dist/
+*.egg-info/
+
+# Environment
+.env
+
+# Local runtime data
+data/uploads/
+artifacts/*
+!artifacts/.gitkeep
+*.db
+*.sqlite
+*.sqlite3
+
+# Python caches / tooling
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
