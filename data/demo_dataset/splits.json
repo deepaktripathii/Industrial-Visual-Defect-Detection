@@ -1,0 +1,2246 @@
+{
+  "root": "D:\\deeepak\\Product-Defect-Detection\\data\\demo_dataset",
+  "n_files": 320,
+  "files": [
+    {
+      "path": "train/crack/crack_000.jpg",
+      "split": "train",
+      "label": "crack",
+      "sha256": "1e17c08bd32fcb07941d14fb0b422711a0e6ca70a816753ee2b024b2ce59c45c",
+      "size_bytes": 18457
+    },
+    {
+      "path": "train/crack/crack_001.jpg",
+      "split": "train",
+      "label": "crack",
+      "sha256": "7e34b7f0e64d549c10576498339cc62d3fd33aba15c7e0ece16e8d6a9f558dd4",
+      "size_bytes": 17804
+    },
+    {
+      "path": "train/crack/crack_002.jpg",
+      "split": "train",
+      "label": "crack",
+      "sha256": "45551e83fe423ff068bb7d46a08ea80f31407aeaa09157b63b41b752814f947c",
+      "size_bytes": 18082
+    },
+    {
+      "path": "train/crack/crack_003.jpg",
+      "split": "train",
+      "label": "crack",
+      "sha256": "867b1c9c6066820ed8dc4733f1f39efe9b5c9f3514b46e33941d7f1e71939cd0",
+      "size_bytes": 17916
+    },
+    {
+      "path": "train/crack/crack_004.jpg",
+      "split": "train",
+      "label": "crack",
+      "sha256": "ed961487ba442b788e830c8e38b3ddb9089fd0f5b464ae9755809babdce522be",
+      "size_bytes": 18148
+    },
+    {
+      "path": "train/crack/crack_005.jpg",
+      "split": "train",
+      "label": "crack",
+      "sha256": "54d8b0e504a66a3e5d8d4d1ca3571d674962c5352cc3f0a6b4e1437ddc1ed729",
+      "size_bytes": 18157
+    },
+    {
+      "path": "train/crack/crack_006.jpg",
+      "split": "train",
+      "label": "crack",
+      "sha256": "e21cd669dbd292c93ab0185476f3a1b756eb61dc8a561299fd7244995924eec2",
+      "size_bytes": 17986
+    },
+    {
+      "path": "train/crack/crack_007.jpg",
+      "split": "train",
+      "label": "crack",
+      "sha256": "300bc398332fec2c90ad119b080b517371343d2e41daf22d4318baaeb8a896bf",
+      "size_bytes": 18210
+    },
+    {
+      "path": "train/crack/crack_008.jpg",
+      "split": "train",
+      "label": "crack",
+      "sha256": "c8a15cb9033857d8c6247aa47f1eb8541c4d799d96627374018a3d487da1724c",
+      "size_bytes": 18417
+    },
+    {
+      "path": "train/crack/crack_009.jpg",
+      "split": "train",
+      "label": "crack",
+      "sha256": "78165e4061c9e2449c3a283ce9f3a7b8a30c8dc84923e10afc5e625097fa94a7",
+      "size_bytes": 17963
+    },
+    {
+      "path": "train/crack/crack_010.jpg",
+      "split": "train",
+      "label": "crack",
+      "sha256": "344dea76878edeaec9533c866a0854772718dbd9cbe4f9a55f2b834ffc0fb7f6",
+      "size_bytes": 17842
+    },
+    {
+      "path": "train/crack/crack_011.jpg",
+      "split": "train",
+      "label": "crack",
+      "sha256": "fbaa4d165b25b3adaaed777e4341f388ae28e95a0385480569c1e56a118437f7",
+      "size_bytes": 18090
+    },
+    {
+      "path": "train/crack/crack_012.jpg",
+      "split": "train",
+      "label": "crack",
+      "sha256": "5188bd4715e1eac380cf9c70f2ec8ae91cb66292f9d1774136ee2a7a1136f8e9",
+      "size_bytes": 18113
+    },
+    {
+      "path": "train/crack/crack_013.jpg",
+      "split": "train",
+      "label": "crack",
+      "sha256": "c9e10ece7295524e235d03f8d45a122ac5870b3f2d6827d5ed1d8184c9074e21",
+      "size_bytes": 17896
+    },
+    {
+      "path": "train/crack/crack_014.jpg",
+      "split": "train",
+      "label": "crack",
+      "sha256": "1b5867d68c2236b7af230c37efe9f8b605254f681a3610fce510a2cac368438d",
+      "size_bytes": 17988
+    },
+    {
+      "path": "train/crack/crack_015.jpg",
+      "split": "train",
+      "label": "crack",
+      "sha256": "0e13b4e7df2319309dfa6148a92ac172e02dd2c6c4bdb684057580bac0de8e5b",
+      "size_bytes": 18106
+    },
+    {
+      "path": "train/crack/crack_016.jpg",
+      "split": "train",
+      "label": "crack",
+      "sha256": "20d9f76a151222a46e8a2b3e9b856e4fe842559c8b83d86fc140b69e194cd61f",
+      "size_bytes": 18142
+    },
+    {
+      "path": "train/crack/crack_017.jpg",
+      "split": "train",
+      "label": "crack",
+      "sha256": "0cb967651ef60672972b8cbb3b7b788b5e922d06a9eaee32c80467a33e504364",
+      "size_bytes": 17954
+    },
+    {
+      "path": "train/crack/crack_018.jpg",
+      "split": "train",
+      "label": "crack",
+      "sha256": "8df405b704ef7717e1aa4653dda857e88d26d667ae0fc7c093390cccfd2bbc68",
+      "size_bytes": 18142
+    },
+    {
+      "path": "train/crack/crack_019.jpg",
+      "split": "train",
+      "label": "crack",
+      "sha256": "7e4912ac576e0e000e0f462a0f084c34e30972b3b21573325d98473c96f6f54f",
+      "size_bytes": 17874
+    },
+    {
+      "path": "train/crack/crack_020.jpg",
+      "split": "train",
+      "label": "crack",
+      "sha256": "1177f989cb467348eee209633a97672cb97228b3ab5f3cd7e07b6c0b25d0445f",
+      "size_bytes": 17875
+    },
+    {
+      "path": "train/crack/crack_021.jpg",
+      "split": "train",
+      "label": "crack",
+      "sha256": "ff770a91f8222bff991f4026652a2da7b32a15c4a83278df66a0d87b1518b0d7",
+      "size_bytes": 17846
+    },
+    {
+      "path": "train/crack/crack_022.jpg",
+      "split": "train",
+      "label": "crack",
+      "sha256": "8996a8eb93fe258ffdbb9f94ce9d7862655cf329cbd18d9031e3f71399be2127",
+      "size_bytes": 18027
+    },
+    {
+      "path": "train/crack/crack_023.jpg",
+      "split": "train",
+      "label": "crack",
+      "sha256": "dfc77fd9204ddeb634354e0c5785f3300d236a46bafbca69bcafbb9213ca9af3",
+      "size_bytes": 17800
+    },
+    {
+      "path": "train/crack/crack_024.jpg",
+      "split": "train",
+      "label": "crack",
+      "sha256": "782dc901c517e525d412b8cda10c23adf8cb2b2b0eafb1a55331c0fe0710d7f5",
+      "size_bytes": 18207
+    },
+    {
+      "path": "train/crack/crack_025.jpg",
+      "split": "train",
+      "label": "crack",
+      "sha256": "622bdce2507156f38786f9582e61bb5a5cb7afc223b46e8e15274ca48e5c412d",
+      "size_bytes": 18040
+    },
+    {
+      "path": "train/crack/crack_026.jpg",
+      "split": "train",
+      "label": "crack",
+      "sha256": "0fe4d8203a0217875841c43d52f709997d54e5ce36689265269ee8ecc9bda847",
+      "size_bytes": 17801
+    },
+    {
+      "path": "train/crack/crack_027.jpg",
+      "split": "train",
+      "label": "crack",
+      "sha256": "7c0cbbeb59fd4917ad8b0f621a30d153692895b918357fbcbdc42db18965f862",
+      "size_bytes": 17893
+    },
+    {
+      "path": "train/crack/crack_028.jpg",
+      "split": "train",
+      "label": "crack",
+      "sha256": "b2dd0f5ad885e2500ac4026f08b5eeaea83cb010ce36a4756e1c80bd4e437500",
+      "size_bytes": 18115
+    },
+    {
+      "path": "train/crack/crack_029.jpg",
+      "split": "train",
+      "label": "crack",
+      "sha256": "26c4cafa028e30a1948e0bc73529e44f0e73097822b9b93997225735a07c7236",
+      "size_bytes": 18311
+    },
+    {
+      "path": "train/crack/crack_030.jpg",
+      "split": "train",
+      "label": "crack",
+      "sha256": "5f2d35e986c3a924e47adb5560ce80f323d25ded9e1053157e5a72c6fbb7bbc5",
+      "size_bytes": 18054
+    },
+    {
+      "path": "train/crack/crack_031.jpg",
+      "split": "train",
+      "label": "crack",
+      "sha256": "0a1f335f72c93fb84fa01c16a18141216a62ce114ea7435ea89665826a01570a",
+      "size_bytes": 18265
+    },
+    {
+      "path": "train/crack/crack_032.jpg",
+      "split": "train",
+      "label": "crack",
+      "sha256": "cde417dee9e05c85b554d681134649be1a9b4999e01f077ad522dbf84234bad8",
+      "size_bytes": 18023
+    },
+    {
+      "path": "train/crack/crack_033.jpg",
+      "split": "train",
+      "label": "crack",
+      "sha256": "b02ea485c00ce6ebfbd67b83440949cf13d11bc390faf3943168be845ead339f",
+      "size_bytes": 17962
+    },
+    {
+      "path": "train/crack/crack_034.jpg",
+      "split": "train",
+      "label": "crack",
+      "sha256": "53881e9d1554e2e5fed44acabeca992c928bbfefd824fa031c53fb4d494ddedd",
+      "size_bytes": 18091
+    },
+    {
+      "path": "train/crack/crack_035.jpg",
+      "split": "train",
+      "label": "crack",
+      "sha256": "cc6981fc8ae3403050fa74b3ecdbd3b922acae44ab8b0a5887a5d2ad30b4a769",
+      "size_bytes": 17963
+    },
+    {
+      "path": "train/crack/crack_036.jpg",
+      "split": "train",
+      "label": "crack",
+      "sha256": "da953df8f44a6976f48a786922c1c75272bd306d8c54020fef8108a4b4dfc94d",
+      "size_bytes": 17973
+    },
+    {
+      "path": "train/crack/crack_037.jpg",
+      "split": "train",
+      "label": "crack",
+      "sha256": "f04b1c4cb9582b9bfe97babaf4d9449f8eae73787cd9fdfa2fc477d85b16bd7a",
+      "size_bytes": 18237
+    },
+    {
+      "path": "train/crack/crack_038.jpg",
+      "split": "train",
+      "label": "crack",
+      "sha256": "877489b8e93cd4c7c8d9891024ccafbea46f7b4e9ae39bef46cc334e703158aa",
+      "size_bytes": 18270
+    },
+    {
+      "path": "train/crack/crack_039.jpg",
+      "split": "train",
+      "label": "crack",
+      "sha256": "c8d99f1fca7a3b0f20d047112f4ff5c7f9517d6b79767435e4018943fb25abeb",
+      "size_bytes": 18037
+    },
+    {
+      "path": "train/dent/dent_000.jpg",
+      "split": "train",
+      "label": "dent",
+      "sha256": "80b90236b42181793ae65e4569f207fec5a927b3e27f3bfc4cee2fcb70175e2a",
+      "size_bytes": 17581
+    },
+    {
+      "path": "train/dent/dent_001.jpg",
+      "split": "train",
+      "label": "dent",
+      "sha256": "814bc54367c01e8bf1e931599f45ccd57edcb12fb6785788f1c19a2ba42321c8",
+      "size_bytes": 17573
+    },
+    {
+      "path": "train/dent/dent_002.jpg",
+      "split": "train",
+      "label": "dent",
+      "sha256": "b6f544165aa0e4e4d97bef66efb935251064efcaf982270f8ba0f67d0a3e8c81",
+      "size_bytes": 17584
+    },
+    {
+      "path": "train/dent/dent_003.jpg",
+      "split": "train",
+      "label": "dent",
+      "sha256": "bd1e008b28217a960d7ffa7faeb2297b2dff1aa28e1d5d8142a613c4ffb00c2d",
+      "size_bytes": 17634
+    },
+    {
+      "path": "train/dent/dent_004.jpg",
+      "split": "train",
+      "label": "dent",
+      "sha256": "4680e9ce99360695a236505f41b0058e9eecfefcfff962fc27d6ce6bcac3d2fe",
+      "size_bytes": 17554
+    },
+    {
+      "path": "train/dent/dent_005.jpg",
+      "split": "train",
+      "label": "dent",
+      "sha256": "0b7f350e291d4054c071dfdfb7d5d3028b6737506b04b184d8c78afbd4e7417b",
+      "size_bytes": 17506
+    },
+    {
+      "path": "train/dent/dent_006.jpg",
+      "split": "train",
+      "label": "dent",
+      "sha256": "08ba0199572b53d66c74752e818f385de376c95baa926de6e633106c7761c520",
+      "size_bytes": 17573
+    },
+    {
+      "path": "train/dent/dent_007.jpg",
+      "split": "train",
+      "label": "dent",
+      "sha256": "5833c16bc05b8d76e34e2d8fcd7576a266c6ab2ff9efa0f8f253283e8a9b35f9",
+      "size_bytes": 17619
+    },
+    {
+      "path": "train/dent/dent_008.jpg",
+      "split": "train",
+      "label": "dent",
+      "sha256": "994a8aa2109712eaf8be1e5e575211953c0b28ba0c412026faa8a32a23257e29",
+      "size_bytes": 17655
+    },
+    {
+      "path": "train/dent/dent_009.jpg",
+      "split": "train",
+      "label": "dent",
+      "sha256": "22dd85f901a416573dbc915b47d003152e7f31abd769774ce584481cbe0a57d2",
+      "size_bytes": 17731
+    },
+    {
+      "path": "train/dent/dent_010.jpg",
+      "split": "train",
+      "label": "dent",
+      "sha256": "f6812983cfec9f565d9aa4fd9ed4a35022adb5c425e17b44b98c91a9ddf67008",
+      "size_bytes": 17670
+    },
+    {
+      "path": "train/dent/dent_011.jpg",
+      "split": "train",
+      "label": "dent",
+      "sha256": "67296cdf1275bf438756666d7279b7494fea3689e228f986e5e15cde33436db6",
+      "size_bytes": 17573
+    },
+    {
+      "path": "train/dent/dent_012.jpg",
+      "split": "train",
+      "label": "dent",
+      "sha256": "2ad3e2e8fa5d1d14896e6db5b57408dec99294332ef7a74303e0c5efef211b1e",
+      "size_bytes": 17512
+    },
+    {
+      "path": "train/dent/dent_013.jpg",
+      "split": "train",
+      "label": "dent",
+      "sha256": "98d92146cdc8c717c2f33d91fdaaf107e57939a98a61ec5c282d7a15866760b4",
+      "size_bytes": 17456
+    },
+    {
+      "path": "train/dent/dent_014.jpg",
+      "split": "train",
+      "label": "dent",
+      "sha256": "c5c50c6de96a0f090d54d4cd80b819b1c2b78230411b8acf0ae32fa3d8826a32",
+      "size_bytes": 17368
+    },
+    {
+      "path": "train/dent/dent_015.jpg",
+      "split": "train",
+      "label": "dent",
+      "sha256": "5c0c7b1771acc0fce13875011d83dfcc018f20466c9f1eb59ac19ba62bcc1253",
+      "size_bytes": 17582
+    },
+    {
+      "path": "train/dent/dent_016.jpg",
+      "split": "train",
+      "label": "dent",
+      "sha256": "b9d06864fce0bfd2cfbfc7d05e113d316b4024698ee3122c454fab9b9b0765d7",
+      "size_bytes": 17581
+    },
+    {
+      "path": "train/dent/dent_017.jpg",
+      "split": "train",
+      "label": "dent",
+      "sha256": "d2d2a417e38e7463c1787c4eb1b0c85890edc012f30473706c383b27fba62b6b",
+      "size_bytes": 17641
+    },
+    {
+      "path": "train/dent/dent_018.jpg",
+      "split": "train",
+      "label": "dent",
+      "sha256": "6c52ceaa60ae305d9b24547371f6b0bef6cb02c67d9232f653ce69bd584391fd",
+      "size_bytes": 17627
+    },
+    {
+      "path": "train/dent/dent_019.jpg",
+      "split": "train",
+      "label": "dent",
+      "sha256": "cb38f8d81766b0b94691faa08d4292e9ba3fe9d1cf3437cfee086bd6e0c9f462",
+      "size_bytes": 17572
+    },
+    {
+      "path": "train/dent/dent_020.jpg",
+      "split": "train",
+      "label": "dent",
+      "sha256": "fa02d2d4781363de5d155ffa14da2fa37633772b9c995c2556e33a097a821687",
+      "size_bytes": 17486
+    },
+    {
+      "path": "train/dent/dent_021.jpg",
+      "split": "train",
+      "label": "dent",
+      "sha256": "a6b23f5d2720e6df097f8d5ca34ee8688ba9d84883e225cbc029c9f5e90d4643",
+      "size_bytes": 17556
+    },
+    {
+      "path": "train/dent/dent_022.jpg",
+      "split": "train",
+      "label": "dent",
+      "sha256": "c192f536160d1ca3da1723586a7c8e4ee7e7b9becfc8c996b2c208c4e06876e5",
+      "size_bytes": 17661
+    },
+    {
+      "path": "train/dent/dent_023.jpg",
+      "split": "train",
+      "label": "dent",
+      "sha256": "da1554e4f5aa66d67977b7c5a4387d7cdebbc5759f24399807f9bf2162017f7d",
+      "size_bytes": 17612
+    },
+    {
+      "path": "train/dent/dent_024.jpg",
+      "split": "train",
+      "label": "dent",
+      "sha256": "5e672ae6770d989cf2e01d6ab4381195c3e556bd1f1010a321e604e41ea7d16b",
+      "size_bytes": 17588
+    },
+    {
+      "path": "train/dent/dent_025.jpg",
+      "split": "train",
+      "label": "dent",
+      "sha256": "4dee21c02c87c658b782e20c3b00f8f33da0f46874d442d2cd7c860917fd3acc",
+      "size_bytes": 17463
+    },
+    {
+      "path": "train/dent/dent_026.jpg",
+      "split": "train",
+      "label": "dent",
+      "sha256": "ef3b178b0a48477e4b9763887662c9127b9c24b0ba0ba3c53e0140072c915e22",
+      "size_bytes": 17695
+    },
+    {
+      "path": "train/dent/dent_027.jpg",
+      "split": "train",
+      "label": "dent",
+      "sha256": "bfb394ac4c6de01d3e525db26223fe7eff00b3de0a39f1bca6d6721f34651469",
+      "size_bytes": 17499
+    },
+    {
+      "path": "train/dent/dent_028.jpg",
+      "split": "train",
+      "label": "dent",
+      "sha256": "1b0e09b4ccdab34d88858b26299b2a6e3bc3be4f2f62c25ed7abddbb2b0dd7ff",
+      "size_bytes": 17593
+    },
+    {
+      "path": "train/dent/dent_029.jpg",
+      "split": "train",
+      "label": "dent",
+      "sha256": "7fb00ed594cb0641a639ff27440b452054dc19347de63a8dca103ab670230f4d",
+      "size_bytes": 17523
+    },
+    {
+      "path": "train/dent/dent_030.jpg",
+      "split": "train",
+      "label": "dent",
+      "sha256": "e9992a005012667a777b2774f8c6b0320d87ba5f90bd6fb9421d83f8451b5737",
+      "size_bytes": 17373
+    },
+    {
+      "path": "train/dent/dent_031.jpg",
+      "split": "train",
+      "label": "dent",
+      "sha256": "22f3c71bb28c4f9f267c41e8ddf95bf322a0e94ab769c8b128ad3cc634847269",
+      "size_bytes": 17612
+    },
+    {
+      "path": "train/dent/dent_032.jpg",
+      "split": "train",
+      "label": "dent",
+      "sha256": "591b646fb6489dd62ba38244b89c56a4a18e74c0672e3d6e53dd8dd2abec4dae",
+      "size_bytes": 17530
+    },
+    {
+      "path": "train/dent/dent_033.jpg",
+      "split": "train",
+      "label": "dent",
+      "sha256": "a0201453576bd15bcff8e929730c81ab206d8e529d728e3f1e6f05240015a347",
+      "size_bytes": 17618
+    },
+    {
+      "path": "train/dent/dent_034.jpg",
+      "split": "train",
+      "label": "dent",
+      "sha256": "822c07baeb0e10e79edf942f6a9157574014a6ef93fb4e67e21695b7f188bd00",
+      "size_bytes": 17579
+    },
+    {
+      "path": "train/dent/dent_035.jpg",
+      "split": "train",
+      "label": "dent",
+      "sha256": "a8c535df66af52c4c416d59d3f80c99742e1f02f06810493049b8c9ea4887aa7",
+      "size_bytes": 17492
+    },
+    {
+      "path": "train/dent/dent_036.jpg",
+      "split": "train",
+      "label": "dent",
+      "sha256": "6f4c9de9931e915f0ce6d62d9144fc36d714cdefd27c8e8fe05af3e3fc90f6dc",
+      "size_bytes": 17644
+    },
+    {
+      "path": "train/dent/dent_037.jpg",
+      "split": "train",
+      "label": "dent",
+      "sha256": "ec48359bb9e6950aeb55d55745b51fa4c0e0f54fff37ba54eaf7c41bab75e7e7",
+      "size_bytes": 17519
+    },
+    {
+      "path": "train/dent/dent_038.jpg",
+      "split": "train",
+      "label": "dent",
+      "sha256": "8cf01a43e6173e482af96d23eb2d95ad7d6b083d8ed96076518d0cdc91f7abd9",
+      "size_bytes": 17657
+    },
+    {
+      "path": "train/dent/dent_039.jpg",
+      "split": "train",
+      "label": "dent",
+      "sha256": "dbcaa538b91a3a625a17adc516f7810dce81edb05f3e5c9ce1d5251ed1335257",
+      "size_bytes": 17568
+    },
+    {
+      "path": "train/good/good_000.jpg",
+      "split": "train",
+      "label": "good",
+      "sha256": "5fda09763c5233800c1596837d77f80405c24ec6f2b76158bdf5896b371dc9a2",
+      "size_bytes": 17578
+    },
+    {
+      "path": "train/good/good_001.jpg",
+      "split": "train",
+      "label": "good",
+      "sha256": "61c9b0b6008a879eeeeaafd98ea5ea1290f6385404bd29ce66c50fbba1e4f0db",
+      "size_bytes": 17586
+    },
+    {
+      "path": "train/good/good_002.jpg",
+      "split": "train",
+      "label": "good",
+      "sha256": "5795980b72bb2f2057b2a2ab8829c95ba0d2fa4299ee6608f5ed00f89bf0ac75",
+      "size_bytes": 17661
+    },
+    {
+      "path": "train/good/good_003.jpg",
+      "split": "train",
+      "label": "good",
+      "sha256": "83293f65e1a4b9be66ed6261901e8e4acd359105356ba92f47b75a01c3d3f35c",
+      "size_bytes": 17539
+    },
+    {
+      "path": "train/good/good_004.jpg",
+      "split": "train",
+      "label": "good",
+      "sha256": "a9a26938d496c453cbb3edce0454fb06ec4c1e9fed8c68f68352e61163605ad5",
+      "size_bytes": 17593
+    },
+    {
+      "path": "train/good/good_005.jpg",
+      "split": "train",
+      "label": "good",
+      "sha256": "212c4c0c4484a41c1633ff60d3f76affa8ec81ca4ae2b47ad091eb2af60b4c00",
+      "size_bytes": 17687
+    },
+    {
+      "path": "train/good/good_006.jpg",
+      "split": "train",
+      "label": "good",
+      "sha256": "29dd5c226e0418fd9b7f81bb603bd29fed7ec6d6ec822c465d730fb232789808",
+      "size_bytes": 17676
+    },
+    {
+      "path": "train/good/good_007.jpg",
+      "split": "train",
+      "label": "good",
+      "sha256": "626a6dacc7401135caf312e4f19c9ccb250236e078e611a39839af570ed3b785",
+      "size_bytes": 17619
+    },
+    {
+      "path": "train/good/good_008.jpg",
+      "split": "train",
+      "label": "good",
+      "sha256": "1a01d246ab6e25a215232d340cc28f2422018d09acbd1b4ef8f6f073cfb7533b",
+      "size_bytes": 17656
+    },
+    {
+      "path": "train/good/good_009.jpg",
+      "split": "train",
+      "label": "good",
+      "sha256": "9ff29306f7bf1fcac818c16ec18a5964a7e75b738dd9d36ff0abaaaf576dad3a",
+      "size_bytes": 17620
+    },
+    {
+      "path": "train/good/good_010.jpg",
+      "split": "train",
+      "label": "good",
+      "sha256": "3c605b88d77a1c4b7539d9099a150094e120eea580b911cef45e0e3e4512b483",
+      "size_bytes": 17506
+    },
+    {
+      "path": "train/good/good_011.jpg",
+      "split": "train",
+      "label": "good",
+      "sha256": "afc203898a358e4fb7a918405c68a31f7614d9f7dd2eed0ba939b4c98e8e8793",
+      "size_bytes": 17639
+    },
+    {
+      "path": "train/good/good_012.jpg",
+      "split": "train",
+      "label": "good",
+      "sha256": "9982b4b076bf9cf9f91b4999573582beb6662d877aeb51027493e30210ee3508",
+      "size_bytes": 17580
+    },
+    {
+      "path": "train/good/good_013.jpg",
+      "split": "train",
+      "label": "good",
+      "sha256": "a646859025abefae6ef10bb2aa11ebc3f61cf22d8ca68f38bab2497ccefe62d6",
+      "size_bytes": 17632
+    },
+    {
+      "path": "train/good/good_014.jpg",
+      "split": "train",
+      "label": "good",
+      "sha256": "d6b110f9fa8d911442cbc6fa6d32f6c586f2569b917bd2004706765e8c826326",
+      "size_bytes": 17695
+    },
+    {
+      "path": "train/good/good_015.jpg",
+      "split": "train",
+      "label": "good",
+      "sha256": "d689b3432ec93680d7cceacd932c658eff3f9c7a684f0ede0c53dc6041d8ce46",
+      "size_bytes": 17606
+    },
+    {
+      "path": "train/good/good_016.jpg",
+      "split": "train",
+      "label": "good",
+      "sha256": "84c434fa22e286bd393d8c9bd158cc9aba775ba5ecd775d91a669ac97a001ce4",
+      "size_bytes": 17483
+    },
+    {
+      "path": "train/good/good_017.jpg",
+      "split": "train",
+      "label": "good",
+      "sha256": "3bd1ed1321e51a2cbba06e0d6139bffca655efd78a23bf122c5982254e2a6b0c",
+      "size_bytes": 17587
+    },
+    {
+      "path": "train/good/good_018.jpg",
+      "split": "train",
+      "label": "good",
+      "sha256": "7137e9cfdbec950835f620911db2d522e06b1aa79c98e499123008f6175d9041",
+      "size_bytes": 17654
+    },
+    {
+      "path": "train/good/good_019.jpg",
+      "split": "train",
+      "label": "good",
+      "sha256": "70e1aba1de601a9a301204283ca0acdcab42b4affe064776bb27d1928da804a0",
+      "size_bytes": 17590
+    },
+    {
+      "path": "train/good/good_020.jpg",
+      "split": "train",
+      "label": "good",
+      "sha256": "aea556f541926de1ac7d27326f56718d70cbccc52f6c1ea58030e4c182c12d76",
+      "size_bytes": 17575
+    },
+    {
+      "path": "train/good/good_021.jpg",
+      "split": "train",
+      "label": "good",
+      "sha256": "7e605ab15524f8284519373588ca3e9aa4265f80bf8cf0a08dd893656990dcb2",
+      "size_bytes": 17617
+    },
+    {
+      "path": "train/good/good_022.jpg",
+      "split": "train",
+      "label": "good",
+      "sha256": "4862c798a2ae65d11a4f0d4f6a378d250e7d853bf6e9e11fa98484b54f992621",
+      "size_bytes": 17590
+    },
+    {
+      "path": "train/good/good_023.jpg",
+      "split": "train",
+      "label": "good",
+      "sha256": "f25476b1b033e7db0dc8bba154e3dbea4831199e7c8b263c113cb9242c0dd4c7",
+      "size_bytes": 17696
+    },
+    {
+      "path": "train/good/good_024.jpg",
+      "split": "train",
+      "label": "good",
+      "sha256": "7b5ae26e0ab924a79c1e828162c3de30fd910905a3a4a7425e295ff5e7e9c431",
+      "size_bytes": 17637
+    },
+    {
+      "path": "train/good/good_025.jpg",
+      "split": "train",
+      "label": "good",
+      "sha256": "6b31d1fa0299574661df3bda4a9077d87c93c7d5ce2c55c91e61004e30201d35",
+      "size_bytes": 17650
+    },
+    {
+      "path": "train/good/good_026.jpg",
+      "split": "train",
+      "label": "good",
+      "sha256": "d4f23fb1643ae5d32ff412c4a961e3929757ee2b1c2b7a10200e97d20d53fe8d",
+      "size_bytes": 17635
+    },
+    {
+      "path": "train/good/good_027.jpg",
+      "split": "train",
+      "label": "good",
+      "sha256": "99e76b3e112d93e23d26860d0ecb4aca698378c94c1b9cf96f54d389a8a7c908",
+      "size_bytes": 17528
+    },
+    {
+      "path": "train/good/good_028.jpg",
+      "split": "train",
+      "label": "good",
+      "sha256": "2e6e837a5e2b3c1e3c2d2c36d0d62e60a91c41053061ab85edd7ab0dcb505bc2",
+      "size_bytes": 17645
+    },
+    {
+      "path": "train/good/good_029.jpg",
+      "split": "train",
+      "label": "good",
+      "sha256": "2a9f06c4f6b514b0fe43c0f806519e4a58af5c46f2bd84e148a5059d40b68e6c",
+      "size_bytes": 17611
+    },
+    {
+      "path": "train/good/good_030.jpg",
+      "split": "train",
+      "label": "good",
+      "sha256": "8d42ae348da14752670d62bc1ac9e530d78dbbdbf85dafd3ea238dc5f60fbabd",
+      "size_bytes": 17616
+    },
+    {
+      "path": "train/good/good_031.jpg",
+      "split": "train",
+      "label": "good",
+      "sha256": "58505558e87d7ebc732143549e3bdbd37045371aca18dd24b4d578732ab8702b",
+      "size_bytes": 17622
+    },
+    {
+      "path": "train/good/good_032.jpg",
+      "split": "train",
+      "label": "good",
+      "sha256": "cd41dfc75cd73354dcc128ca809cb7aca60352bd5ed5d40a4bb6048fe46f6fd6",
+      "size_bytes": 17546
+    },
+    {
+      "path": "train/good/good_033.jpg",
+      "split": "train",
+      "label": "good",
+      "sha256": "ed46ed1586b8f7cf985662bbde23863298c1f387124827a13c5e88c897948d09",
+      "size_bytes": 17640
+    },
+    {
+      "path": "train/good/good_034.jpg",
+      "split": "train",
+      "label": "good",
+      "sha256": "15f031a43505741e20339a76d969ad5560a97962fa93df4750c47b7e96515dcc",
+      "size_bytes": 17561
+    },
+    {
+      "path": "train/good/good_035.jpg",
+      "split": "train",
+      "label": "good",
+      "sha256": "630192f401e71777a751d76393d0ab49ce1bbf5340d50e3f15d536553f8211ba",
+      "size_bytes": 17701
+    },
+    {
+      "path": "train/good/good_036.jpg",
+      "split": "train",
+      "label": "good",
+      "sha256": "edc33e02d1d628eb7c7542abbfece69e6050c29b7e716eb009c13d4df797bb9a",
+      "size_bytes": 17657
+    },
+    {
+      "path": "train/good/good_037.jpg",
+      "split": "train",
+      "label": "good",
+      "sha256": "a6e7efce7971a810fe87b3b1a451d4a287b7b2074718d950929477e18895a325",
+      "size_bytes": 17651
+    },
+    {
+      "path": "train/good/good_038.jpg",
+      "split": "train",
+      "label": "good",
+      "sha256": "9ee4cfa83ee23dbae59ece766b1aad28b51efb72f26523c9b6ca335f636579e6",
+      "size_bytes": 17679
+    },
+    {
+      "path": "train/good/good_039.jpg",
+      "split": "train",
+      "label": "good",
+      "sha256": "07ddd0492826fa4a0b14438e5c69140dcc41e95b3fb8c2501427b805996e7745",
+      "size_bytes": 17449
+    },
+    {
+      "path": "train/scratch/scratch_000.jpg",
+      "split": "train",
+      "label": "scratch",
+      "sha256": "7fdfdf608e2d9aa6a791cc7db1edbdf994f9aa2ec131022fb414afb8eee02c5d",
+      "size_bytes": 17769
+    },
+    {
+      "path": "train/scratch/scratch_001.jpg",
+      "split": "train",
+      "label": "scratch",
+      "sha256": "d19558a2064b01166aa71dcd12676f4be9d36353af0fcc9c44d6906e411949a5",
+      "size_bytes": 17766
+    },
+    {
+      "path": "train/scratch/scratch_002.jpg",
+      "split": "train",
+      "label": "scratch",
+      "sha256": "7790abb9f4250c3d15590105865103029dfcad99c7255343aca6b6e005a0d61e",
+      "size_bytes": 18067
+    },
+    {
+      "path": "train/scratch/scratch_003.jpg",
+      "split": "train",
+      "label": "scratch",
+      "sha256": "e3c974c4bf9c6f58922257807fe70127f697ce54476ab0890561ac139b504b49",
+      "size_bytes": 17782
+    },
+    {
+      "path": "train/scratch/scratch_004.jpg",
+      "split": "train",
+      "label": "scratch",
+      "sha256": "59110e5e2fb10a952aadf086c8ec6b729e91c859faa39c3fdb77c0561b232695",
+      "size_bytes": 17945
+    },
+    {
+      "path": "train/scratch/scratch_005.jpg",
+      "split": "train",
+      "label": "scratch",
+      "sha256": "38b2ec020e305ac044376d6bb387d23d3e756c38d3650625e0cba8b32eae4356",
+      "size_bytes": 17661
+    },
+    {
+      "path": "train/scratch/scratch_006.jpg",
+      "split": "train",
+      "label": "scratch",
+      "sha256": "d470e338251a3220a639714d841f6e54edd08595f7c34f4bf30ce83bcefafe6a",
+      "size_bytes": 18015
+    },
+    {
+      "path": "train/scratch/scratch_007.jpg",
+      "split": "train",
+      "label": "scratch",
+      "sha256": "897caa0a8aa4284ee1914c1cf43c5ddc667684a0d59cc2f860bebcc406a1561b",
+      "size_bytes": 18111
+    },
+    {
+      "path": "train/scratch/scratch_008.jpg",
+      "split": "train",
+      "label": "scratch",
+      "sha256": "1673fb5c1d7ad264cc4e9c96aacfb2fba9a947876000d29c0e3c4cff08bac685",
+      "size_bytes": 17964
+    },
+    {
+      "path": "train/scratch/scratch_009.jpg",
+      "split": "train",
+      "label": "scratch",
+      "sha256": "6ee1f20519d4f43c5faa2298cc702c06c88a14b2b2a3979d1d590d299c7e3d92",
+      "size_bytes": 18154
+    },
+    {
+      "path": "train/scratch/scratch_010.jpg",
+      "split": "train",
+      "label": "scratch",
+      "sha256": "48bc1254a14fe3aa3852f226325da610fede83b60173ac24d268fe4c99d086be",
+      "size_bytes": 17835
+    },
+    {
+      "path": "train/scratch/scratch_011.jpg",
+      "split": "train",
+      "label": "scratch",
+      "sha256": "6648be51648f2193f94a7e57c4ec1067b8352fd07714e6fa8659a171b2980c93",
+      "size_bytes": 17908
+    },
+    {
+      "path": "train/scratch/scratch_012.jpg",
+      "split": "train",
+      "label": "scratch",
+      "sha256": "730d425258682ad8ab6732207b885c07e849f0d5c25bb63cb54e04623dc74b6f",
+      "size_bytes": 17728
+    },
+    {
+      "path": "train/scratch/scratch_013.jpg",
+      "split": "train",
+      "label": "scratch",
+      "sha256": "ea426e82ab6a3b60b155cf4ee696e9b63ffc3e8a775d709fb47994f70f5c7039",
+      "size_bytes": 17819
+    },
+    {
+      "path": "train/scratch/scratch_014.jpg",
+      "split": "train",
+      "label": "scratch",
+      "sha256": "2bdd409156a4b8b29ffb97e4a07099b2e39538693498bd82817a4da5d66dcf9d",
+      "size_bytes": 17741
+    },
+    {
+      "path": "train/scratch/scratch_015.jpg",
+      "split": "train",
+      "label": "scratch",
+      "sha256": "f6591abf1071175506f5d54ca923751bd47b168a06b3c918cfacae95bc0bf640",
+      "size_bytes": 17757
+    },
+    {
+      "path": "train/scratch/scratch_016.jpg",
+      "split": "train",
+      "label": "scratch",
+      "sha256": "2d69cafe6a911be3e91fcf73c78c5b51c8955b1c98164dbb069ceaa91d6a3ee2",
+      "size_bytes": 17828
+    },
+    {
+      "path": "train/scratch/scratch_017.jpg",
+      "split": "train",
+      "label": "scratch",
+      "sha256": "63ded32d4b3963bf3bcf37f445ef9eead924a6db3fb1e1c9aa1a1a5b39a619b5",
+      "size_bytes": 17758
+    },
+    {
+      "path": "train/scratch/scratch_018.jpg",
+      "split": "train",
+      "label": "scratch",
+      "sha256": "f6b174fdd0c4d283144d21ccf5d54d3f6b0ee4911e96d4141649885326a34997",
+      "size_bytes": 17947
+    },
+    {
+      "path": "train/scratch/scratch_019.jpg",
+      "split": "train",
+      "label": "scratch",
+      "sha256": "dfd17add33a43f870bdf4b9b367f4ed425024f68b4aa73dfe04362b16614a78a",
+      "size_bytes": 17608
+    },
+    {
+      "path": "train/scratch/scratch_020.jpg",
+      "split": "train",
+      "label": "scratch",
+      "sha256": "fe799560914881f9843d59ed0af7b9396e84c6ffc89186ab2d4f08e27b8c6600",
+      "size_bytes": 17902
+    },
+    {
+      "path": "train/scratch/scratch_021.jpg",
+      "split": "train",
+      "label": "scratch",
+      "sha256": "37e1e0a624b7a880096eb003d00d514ff7b333e68780e53788ddfb8353d5ef1f",
+      "size_bytes": 17677
+    },
+    {
+      "path": "train/scratch/scratch_022.jpg",
+      "split": "train",
+      "label": "scratch",
+      "sha256": "babc8fff9882360d3cca8b2cbcb8431974e16c2d26db7d2da0b6419b7c6d33ba",
+      "size_bytes": 17625
+    },
+    {
+      "path": "train/scratch/scratch_023.jpg",
+      "split": "train",
+      "label": "scratch",
+      "sha256": "69f458e4f971374952ec4b10908aa3266adf878c0fd657e79d79e9221cbf896a",
+      "size_bytes": 18126
+    },
+    {
+      "path": "train/scratch/scratch_024.jpg",
+      "split": "train",
+      "label": "scratch",
+      "sha256": "4cae8c75b1fb6ac91e009c8222533955c2fb3f9f28a086d873fbb3bf33f98f26",
+      "size_bytes": 17836
+    },
+    {
+      "path": "train/scratch/scratch_025.jpg",
+      "split": "train",
+      "label": "scratch",
+      "sha256": "01ba3bbbf3d640d36f58eaf78abb37183027f7f7604b3e0233f740a00382ba41",
+      "size_bytes": 17819
+    },
+    {
+      "path": "train/scratch/scratch_026.jpg",
+      "split": "train",
+      "label": "scratch",
+      "sha256": "7cc3bac0c580d74d6d2727df47b1cbea4e68321a9d2bad9f424efadac6be66bd",
+      "size_bytes": 18038
+    },
+    {
+      "path": "train/scratch/scratch_027.jpg",
+      "split": "train",
+      "label": "scratch",
+      "sha256": "738077b07c7ea7abc0aafa63a95d1fb8482a546fb8e296ca1f9d63dba9641386",
+      "size_bytes": 17893
+    },
+    {
+      "path": "train/scratch/scratch_028.jpg",
+      "split": "train",
+      "label": "scratch",
+      "sha256": "72afbedff09600700e39e5cd5defddafdd1d23a98c4b1917e6f832a4056ad8c2",
+      "size_bytes": 17749
+    },
+    {
+      "path": "train/scratch/scratch_029.jpg",
+      "split": "train",
+      "label": "scratch",
+      "sha256": "a0639733d635faadeff3b445f4f33605e1f6c0d75928bd5f83a986a0d3c499af",
+      "size_bytes": 17756
+    },
+    {
+      "path": "train/scratch/scratch_030.jpg",
+      "split": "train",
+      "label": "scratch",
+      "sha256": "3b5b3ad5f40e9767083bd7cde77833d95bd74d977774cb4e1fd81616050faf9f",
+      "size_bytes": 17564
+    },
+    {
+      "path": "train/scratch/scratch_031.jpg",
+      "split": "train",
+      "label": "scratch",
+      "sha256": "3cf863e605d21cb6888c1f5f090de590067d863fb526eb26c4fc6550b9f34619",
+      "size_bytes": 17839
+    },
+    {
+      "path": "train/scratch/scratch_032.jpg",
+      "split": "train",
+      "label": "scratch",
+      "sha256": "acb0e860042365a6dfb3629de2ecebcec0837df6d5f3a41cacb862b53bd12ab6",
+      "size_bytes": 17968
+    },
+    {
+      "path": "train/scratch/scratch_033.jpg",
+      "split": "train",
+      "label": "scratch",
+      "sha256": "6e07d8da02646b84756241e5e8f217fedd6cf72c5ce013c202b2eca931c2e5e0",
+      "size_bytes": 17615
+    },
+    {
+      "path": "train/scratch/scratch_034.jpg",
+      "split": "train",
+      "label": "scratch",
+      "sha256": "cbf1ee02eb9c3201a2c8f1739e0afc24c7bf969b5721d3b775fa443186fda205",
+      "size_bytes": 17848
+    },
+    {
+      "path": "train/scratch/scratch_035.jpg",
+      "split": "train",
+      "label": "scratch",
+      "sha256": "8fa37cb305be328f1039d0d9b2f92850a3c9f45104cf40a781421da86d737c48",
+      "size_bytes": 18033
+    },
+    {
+      "path": "train/scratch/scratch_036.jpg",
+      "split": "train",
+      "label": "scratch",
+      "sha256": "ea4cf6c372de7629aa365925b7f32be0d4a8ffcfa3b58ad1727683dc97c7aada",
+      "size_bytes": 17876
+    },
+    {
+      "path": "train/scratch/scratch_037.jpg",
+      "split": "train",
+      "label": "scratch",
+      "sha256": "c85c87070f15d3423e5b0b38caa804560a76ca2283c4e4cdf133a6311a0610b1",
+      "size_bytes": 18100
+    },
+    {
+      "path": "train/scratch/scratch_038.jpg",
+      "split": "train",
+      "label": "scratch",
+      "sha256": "e9b4a7fa1746d60b4075d9ed711231da09d58b07cb0edae6451e298e740349d7",
+      "size_bytes": 17705
+    },
+    {
+      "path": "train/scratch/scratch_039.jpg",
+      "split": "train",
+      "label": "scratch",
+      "sha256": "c2f7a9540d6b404e2ec92bfa8196dd88140eaf1d07f369f8877687e64916f49d",
+      "size_bytes": 17794
+    },
+    {
+      "path": "train/stain/stain_000.jpg",
+      "split": "train",
+      "label": "stain",
+      "sha256": "9be792585cf27ad6bd5b8fae3ffb65f3187080f222ff3d1207db286015cab140",
+      "size_bytes": 17559
+    },
+    {
+      "path": "train/stain/stain_001.jpg",
+      "split": "train",
+      "label": "stain",
+      "sha256": "97a718e7ac9212d05ddad15cb7a3915170e03220eb2e5082ae02567788439be2",
+      "size_bytes": 17669
+    },
+    {
+      "path": "train/stain/stain_002.jpg",
+      "split": "train",
+      "label": "stain",
+      "sha256": "37558035344aa0e68507150188939f4fb96d08a7de4fbd03a4ef68725eb36b5d",
+      "size_bytes": 17673
+    },
+    {
+      "path": "train/stain/stain_003.jpg",
+      "split": "train",
+      "label": "stain",
+      "sha256": "2bd22a53ed3427b12455d314149dbe3264c39546a2a703cf52c437d5f10073e9",
+      "size_bytes": 17643
+    },
+    {
+      "path": "train/stain/stain_004.jpg",
+      "split": "train",
+      "label": "stain",
+      "sha256": "93f9d473bb2520d17a8800c2d1a21246099ef709c29dbdbcd9b9372eea504361",
+      "size_bytes": 17508
+    },
+    {
+      "path": "train/stain/stain_005.jpg",
+      "split": "train",
+      "label": "stain",
+      "sha256": "fd185bba9f7492242aba6cb1747491b81758ae7ce649a6e520a3039874cc0921",
+      "size_bytes": 17593
+    },
+    {
+      "path": "train/stain/stain_006.jpg",
+      "split": "train",
+      "label": "stain",
+      "sha256": "c7db57842a6f963e4114d1f62ede79ad01ddeb11260daf4432b1599024a36631",
+      "size_bytes": 17625
+    },
+    {
+      "path": "train/stain/stain_007.jpg",
+      "split": "train",
+      "label": "stain",
+      "sha256": "5904d0fd67210e581dd67d37e9e5f394a3678eadc88d119acec59d55ac44a509",
+      "size_bytes": 17519
+    },
+    {
+      "path": "train/stain/stain_008.jpg",
+      "split": "train",
+      "label": "stain",
+      "sha256": "6ecaeb14e90e36df3cea3c1f2a380c6c99293d52a1ed7c86f97d1b63c968c0d7",
+      "size_bytes": 17652
+    },
+    {
+      "path": "train/stain/stain_009.jpg",
+      "split": "train",
+      "label": "stain",
+      "sha256": "d494bb75a60954d4c9b3e6a90b6f2871432a6743abc96a44d8fc9915dcb03d0e",
+      "size_bytes": 17643
+    },
+    {
+      "path": "train/stain/stain_010.jpg",
+      "split": "train",
+      "label": "stain",
+      "sha256": "bb6a696a6241d63988998b945435d131e861c2f6577a6cdf59f9f9a925c49318",
+      "size_bytes": 17635
+    },
+    {
+      "path": "train/stain/stain_011.jpg",
+      "split": "train",
+      "label": "stain",
+      "sha256": "8f97f9386b8ab8689199b34023ec1efcd842bbcf2b3875bb42e2a7ad5060dc00",
+      "size_bytes": 17679
+    },
+    {
+      "path": "train/stain/stain_012.jpg",
+      "split": "train",
+      "label": "stain",
+      "sha256": "5bd2201d2636f666621f336dd8b938eb8c6907f3cf3d96d74cac3417e63ce0ab",
+      "size_bytes": 17590
+    },
+    {
+      "path": "train/stain/stain_013.jpg",
+      "split": "train",
+      "label": "stain",
+      "sha256": "60be4f1f0ee384f4aa46f5671008f3a36676f7feecbf6e10a4953c9b4d069de8",
+      "size_bytes": 17681
+    },
+    {
+      "path": "train/stain/stain_014.jpg",
+      "split": "train",
+      "label": "stain",
+      "sha256": "656dc50abad89befcf29cc8deb49e907f01a6735fa45dc7de22f9b3b8e4c6434",
+      "size_bytes": 17584
+    },
+    {
+      "path": "train/stain/stain_015.jpg",
+      "split": "train",
+      "label": "stain",
+      "sha256": "e5741325537e0fcae6c507a6414572c7ead1b1c09d9b08e4963dee04c94626f8",
+      "size_bytes": 17683
+    },
+    {
+      "path": "train/stain/stain_016.jpg",
+      "split": "train",
+      "label": "stain",
+      "sha256": "5cdd69806048f2f95269534b1f47bd3b4de93f7d5dfe87e2147a452cbe9b67f3",
+      "size_bytes": 17644
+    },
+    {
+      "path": "train/stain/stain_017.jpg",
+      "split": "train",
+      "label": "stain",
+      "sha256": "24366f60307ea06d34dbd80dfe311896966d1d8f7e8b6fb83bf11fa3de3499c6",
+      "size_bytes": 17536
+    },
+    {
+      "path": "train/stain/stain_018.jpg",
+      "split": "train",
+      "label": "stain",
+      "sha256": "37329f81e5d8e8d09d966fd45d66efd9302bac65a4072de3f8f80154330d99e6",
+      "size_bytes": 17704
+    },
+    {
+      "path": "train/stain/stain_019.jpg",
+      "split": "train",
+      "label": "stain",
+      "sha256": "7c104b3bc91a898a7901ae9ada941d1fecbd5d71c9e75da2e658c5dc5a46dcb2",
+      "size_bytes": 17638
+    },
+    {
+      "path": "train/stain/stain_020.jpg",
+      "split": "train",
+      "label": "stain",
+      "sha256": "5d167d755c247e21c2d6892c7deae1a056e5da6671f85c9e19186231dde07403",
+      "size_bytes": 17550
+    },
+    {
+      "path": "train/stain/stain_021.jpg",
+      "split": "train",
+      "label": "stain",
+      "sha256": "f22167e96af288ae078e3e4423a08869b7b3c44e594eba9acd59a00a22ef8e48",
+      "size_bytes": 17663
+    },
+    {
+      "path": "train/stain/stain_022.jpg",
+      "split": "train",
+      "label": "stain",
+      "sha256": "78762d407bf3efd9c86c08915e23e0b0555ee09b4a0028aafcda2e0d6fdd5546",
+      "size_bytes": 17657
+    },
+    {
+      "path": "train/stain/stain_023.jpg",
+      "split": "train",
+      "label": "stain",
+      "sha256": "a7cdc5010769a55b7f358b594054f4277945665878c60c344d5e1c9f15eaed3b",
+      "size_bytes": 17620
+    },
+    {
+      "path": "train/stain/stain_024.jpg",
+      "split": "train",
+      "label": "stain",
+      "sha256": "fd9dbdcfcd66aa7c7413d9bc88675e6d5cf30148fe701969d7dd477aaad7a935",
+      "size_bytes": 17464
+    },
+    {
+      "path": "train/stain/stain_025.jpg",
+      "split": "train",
+      "label": "stain",
+      "sha256": "beffe3d3e3a0ee846cb6c1bb0c135e72b2f52e0debe86feb9cdd825f52cd1b6b",
+      "size_bytes": 17642
+    },
+    {
+      "path": "train/stain/stain_026.jpg",
+      "split": "train",
+      "label": "stain",
+      "sha256": "7d04d160c216f6b820c42717c18af184cf4fa74cb8acd368e556e7ad836e1e03",
+      "size_bytes": 17554
+    },
+    {
+      "path": "train/stain/stain_027.jpg",
+      "split": "train",
+      "label": "stain",
+      "sha256": "e56934d782acf4d38159ecb13d9887deb2d5bf8c21cdd6a6717aadcad7eae0dc",
+      "size_bytes": 17659
+    },
+    {
+      "path": "train/stain/stain_028.jpg",
+      "split": "train",
+      "label": "stain",
+      "sha256": "46bf447014300d9343779966cf3b56657362f078b6d8f167046463b6349be6d5",
+      "size_bytes": 17735
+    },
+    {
+      "path": "train/stain/stain_029.jpg",
+      "split": "train",
+      "label": "stain",
+      "sha256": "e6ec32e1a0f6690b5509dd36200917b04ba4b330060867a22b537e491eb06fc4",
+      "size_bytes": 17477
+    },
+    {
+      "path": "train/stain/stain_030.jpg",
+      "split": "train",
+      "label": "stain",
+      "sha256": "eed05d6c08e61f348cbfe1c91e387939540c87c4d84badaaf694f57404f4a773",
+      "size_bytes": 17643
+    },
+    {
+      "path": "train/stain/stain_031.jpg",
+      "split": "train",
+      "label": "stain",
+      "sha256": "ee61bcbc31c5d3481a4087a5d7db40ffac0bc3a9bdaaa793655cf578eda4f1d4",
+      "size_bytes": 17462
+    },
+    {
+      "path": "train/stain/stain_032.jpg",
+      "split": "train",
+      "label": "stain",
+      "sha256": "edbac55f40908a45b0d59f7664242b5e49d1dcb56a0413c9a5443d7369c154d0",
+      "size_bytes": 17611
+    },
+    {
+      "path": "train/stain/stain_033.jpg",
+      "split": "train",
+      "label": "stain",
+      "sha256": "53db20371f5b5887e5c78299c7d65b19ee7eef8179022e3adbac71969835799e",
+      "size_bytes": 17626
+    },
+    {
+      "path": "train/stain/stain_034.jpg",
+      "split": "train",
+      "label": "stain",
+      "sha256": "25532100a3e88ffc7342a65d83f18138133b15d103160782390f742da13882f7",
+      "size_bytes": 17479
+    },
+    {
+      "path": "train/stain/stain_035.jpg",
+      "split": "train",
+      "label": "stain",
+      "sha256": "ad09cd06da68508db28c1ce6d8516e97e96a162381345b6639b9cc2180538e15",
+      "size_bytes": 17580
+    },
+    {
+      "path": "train/stain/stain_036.jpg",
+      "split": "train",
+      "label": "stain",
+      "sha256": "5f5d271e428c3a401fa72bc3c4b54948b7db1bdfac67e2190baa5509de4ce1f8",
+      "size_bytes": 17587
+    },
+    {
+      "path": "train/stain/stain_037.jpg",
+      "split": "train",
+      "label": "stain",
+      "sha256": "65b486d81dd968609cf6d0d161480164492acf92ece4f4ef02ccce429313e05f",
+      "size_bytes": 17597
+    },
+    {
+      "path": "train/stain/stain_038.jpg",
+      "split": "train",
+      "label": "stain",
+      "sha256": "42dbe950b606c78561dd77c2160c930f2c64a663adffcd03b732369a99a4074c",
+      "size_bytes": 17578
+    },
+    {
+      "path": "train/stain/stain_039.jpg",
+      "split": "train",
+      "label": "stain",
+      "sha256": "dd835010adb47d092d0c58df62600e4fa617d3d59894458007905e449f9c548b",
+      "size_bytes": 17737
+    },
+    {
+      "path": "val/crack/crack_000.jpg",
+      "split": "val",
+      "label": "crack",
+      "sha256": "2748fdb2d2cb18bf1e217da4af1161b5b9c643f9eaae36d87f9b59c969802210",
+      "size_bytes": 18090
+    },
+    {
+      "path": "val/crack/crack_001.jpg",
+      "split": "val",
+      "label": "crack",
+      "sha256": "23f6cd63c84fbed28aff7dd153b90a9544940486ba6329e036fbf7d29b9a07b9",
+      "size_bytes": 18055
+    },
+    {
+      "path": "val/crack/crack_002.jpg",
+      "split": "val",
+      "label": "crack",
+      "sha256": "5c9bc8b239c9a1f7231bf2304dad821bf7ede7889a3a008183a7a0d4e7e15cdb",
+      "size_bytes": 17829
+    },
+    {
+      "path": "val/crack/crack_003.jpg",
+      "split": "val",
+      "label": "crack",
+      "sha256": "2674a49e65f59fb59d59b6dc12a6a9f13e4219b1e2a20182cf67fc50fe72222f",
+      "size_bytes": 18132
+    },
+    {
+      "path": "val/crack/crack_004.jpg",
+      "split": "val",
+      "label": "crack",
+      "sha256": "ecd85df3259e5273d875b652a8a38ee64a4aeb3e228b54502d76dcb42df7203a",
+      "size_bytes": 17965
+    },
+    {
+      "path": "val/crack/crack_005.jpg",
+      "split": "val",
+      "label": "crack",
+      "sha256": "e1f3af9ee07ab8f8925017f26ab05518923d139c0763f6aca5811c0e237f997c",
+      "size_bytes": 17979
+    },
+    {
+      "path": "val/crack/crack_006.jpg",
+      "split": "val",
+      "label": "crack",
+      "sha256": "28654d53129fd4a1fee8150c25de2b8d9f05eb6fc640067fb0850248009ab008",
+      "size_bytes": 18121
+    },
+    {
+      "path": "val/crack/crack_007.jpg",
+      "split": "val",
+      "label": "crack",
+      "sha256": "47728d1d7d2306bcc2213a91add330c16c56890a8f127205033bb4da43722104",
+      "size_bytes": 17967
+    },
+    {
+      "path": "val/crack/crack_008.jpg",
+      "split": "val",
+      "label": "crack",
+      "sha256": "6690a2f288cd5e02e32cd85db0c7cb5c87d9eb74c276748f26d26fd01f611e4b",
+      "size_bytes": 17926
+    },
+    {
+      "path": "val/crack/crack_009.jpg",
+      "split": "val",
+      "label": "crack",
+      "sha256": "4e596828df1f080cabc5aa158cb7dc7ce93256834702ecd9e8ecec29d977ebc6",
+      "size_bytes": 17891
+    },
+    {
+      "path": "val/dent/dent_000.jpg",
+      "split": "val",
+      "label": "dent",
+      "sha256": "0e3e808dd65ac4ebbd853a29fce12e5f817c46f32338f69ea9bca5fddf03fed4",
+      "size_bytes": 17455
+    },
+    {
+      "path": "val/dent/dent_001.jpg",
+      "split": "val",
+      "label": "dent",
+      "sha256": "938f9cd7e962e2f34cfda2f77e8b43504f29e866d5132f4ab53b08ac6601b795",
+      "size_bytes": 17580
+    },
+    {
+      "path": "val/dent/dent_002.jpg",
+      "split": "val",
+      "label": "dent",
+      "sha256": "82998fb55b17d6b03fb0e13b15c9c594a58ed41001fac0a6929e81da515bf8d2",
+      "size_bytes": 17639
+    },
+    {
+      "path": "val/dent/dent_003.jpg",
+      "split": "val",
+      "label": "dent",
+      "sha256": "7f597e512c86ffe53cc3387ec06294a4b548d3a892277df6fab54052fad913b0",
+      "size_bytes": 17461
+    },
+    {
+      "path": "val/dent/dent_004.jpg",
+      "split": "val",
+      "label": "dent",
+      "sha256": "aa3f9ffdb60ada73c6ec159888ef04189ec3c3967565e98cec568ecac79647f2",
+      "size_bytes": 17459
+    },
+    {
+      "path": "val/dent/dent_005.jpg",
+      "split": "val",
+      "label": "dent",
+      "sha256": "04cef33fe8d09735344826961c1846abd186b6dd00b44fb3f85b4d99fb13f776",
+      "size_bytes": 17503
+    },
+    {
+      "path": "val/dent/dent_006.jpg",
+      "split": "val",
+      "label": "dent",
+      "sha256": "3836cbeac5e14988dd01f7e1de0ad1ccf784a125bf20fd06ff191fb2ab8031c5",
+      "size_bytes": 17355
+    },
+    {
+      "path": "val/dent/dent_007.jpg",
+      "split": "val",
+      "label": "dent",
+      "sha256": "00512a584d6cebf7caa3df81b50d6c884caaeed8e2c4ffd656868dc615401075",
+      "size_bytes": 17732
+    },
+    {
+      "path": "val/dent/dent_008.jpg",
+      "split": "val",
+      "label": "dent",
+      "sha256": "a8d35c14867d7f66d7f5e0adbba750974752c4363c011edca13b01a532d8a6b7",
+      "size_bytes": 17510
+    },
+    {
+      "path": "val/dent/dent_009.jpg",
+      "split": "val",
+      "label": "dent",
+      "sha256": "8122fa1016971f0006596483cc68ebdd2e7d4bd53d763d1ffc04e14decfa18bd",
+      "size_bytes": 17612
+    },
+    {
+      "path": "val/good/good_000.jpg",
+      "split": "val",
+      "label": "good",
+      "sha256": "657eb8ff19a57b9110ef6f153183c1f5e3a5755b92a5880b16d41f355707fda0",
+      "size_bytes": 17591
+    },
+    {
+      "path": "val/good/good_001.jpg",
+      "split": "val",
+      "label": "good",
+      "sha256": "165bdf77e20d381e0e6bf787db8a19c86625e3728f2abaad88650e720e5df7ff",
+      "size_bytes": 17610
+    },
+    {
+      "path": "val/good/good_002.jpg",
+      "split": "val",
+      "label": "good",
+      "sha256": "2930fa2470ad9eaa2e4e1f5a6c0093021f079becded9ae1b767e6f4d3425a1bf",
+      "size_bytes": 17657
+    },
+    {
+      "path": "val/good/good_003.jpg",
+      "split": "val",
+      "label": "good",
+      "sha256": "91796c4ec42280955e91a704ae9c716b6e9f9569c93e1e828ccbdd0e771c5978",
+      "size_bytes": 17648
+    },
+    {
+      "path": "val/good/good_004.jpg",
+      "split": "val",
+      "label": "good",
+      "sha256": "185f7903b722040eaa36c972b10332aef5f19284419b66ce9b779a381d1bd9fc",
+      "size_bytes": 17645
+    },
+    {
+      "path": "val/good/good_005.jpg",
+      "split": "val",
+      "label": "good",
+      "sha256": "ad90a89c1beff788ce26ef1fe801fe6fd05a34dd14523a975645b8b9977dd179",
+      "size_bytes": 17619
+    },
+    {
+      "path": "val/good/good_006.jpg",
+      "split": "val",
+      "label": "good",
+      "sha256": "cc4bc2c604b398f7703eeb364b444eebca7631eac66cc192ee5d8c0bcf16ddcc",
+      "size_bytes": 17606
+    },
+    {
+      "path": "val/good/good_007.jpg",
+      "split": "val",
+      "label": "good",
+      "sha256": "689426a6d52797cc93c5bf182a702fd0228be56f4789575862aba183e15d6d5e",
+      "size_bytes": 17572
+    },
+    {
+      "path": "val/good/good_008.jpg",
+      "split": "val",
+      "label": "good",
+      "sha256": "c205c5bfa1571ae87a4336e0d5d042d22aa46c717fbdd3c3cad191fe92120f55",
+      "size_bytes": 17603
+    },
+    {
+      "path": "val/good/good_009.jpg",
+      "split": "val",
+      "label": "good",
+      "sha256": "1208d23636e296c9e45d3373a2c8eeb44f47f1075bd6bb744b2c2b7dd4cb055b",
+      "size_bytes": 17660
+    },
+    {
+      "path": "val/scratch/scratch_000.jpg",
+      "split": "val",
+      "label": "scratch",
+      "sha256": "745fcfc0dfa7a97a528e88ac1ccc04307ecaed65a2a9754f7900f33f0fdd85ce",
+      "size_bytes": 17648
+    },
+    {
+      "path": "val/scratch/scratch_001.jpg",
+      "split": "val",
+      "label": "scratch",
+      "sha256": "fd38777f903fb7b21c6cdafad4884c90397fab897d0074df1cee0cd69f10b33a",
+      "size_bytes": 17774
+    },
+    {
+      "path": "val/scratch/scratch_002.jpg",
+      "split": "val",
+      "label": "scratch",
+      "sha256": "dbfd33f26aa03f013e9ba05dfe7588ca3f881380357ceef21a8cdba1f49af0e8",
+      "size_bytes": 17715
+    },
+    {
+      "path": "val/scratch/scratch_003.jpg",
+      "split": "val",
+      "label": "scratch",
+      "sha256": "823a37ae91845dc29a68604d9ad1956c1e4537613b176ffff7e3c236a8e1f1b3",
+      "size_bytes": 17876
+    },
+    {
+      "path": "val/scratch/scratch_004.jpg",
+      "split": "val",
+      "label": "scratch",
+      "sha256": "b921a9c624cf3e966c14f63380cb37aa33457ebdfd2a61d7cbf64811c82cb43f",
+      "size_bytes": 18060
+    },
+    {
+      "path": "val/scratch/scratch_005.jpg",
+      "split": "val",
+      "label": "scratch",
+      "sha256": "656f1be4a5ea575c92b640effee60cb3399eb1c8cd6396456f5befa9f92f3907",
+      "size_bytes": 17622
+    },
+    {
+      "path": "val/scratch/scratch_006.jpg",
+      "split": "val",
+      "label": "scratch",
+      "sha256": "9509750caae6e74b3d5d6e7071697078b5c131b91e06745bd89aa05113a0e0f1",
+      "size_bytes": 17747
+    },
+    {
+      "path": "val/scratch/scratch_007.jpg",
+      "split": "val",
+      "label": "scratch",
+      "sha256": "e2dafc563de164e3886721989ba066d79a9e26f724ddef1a9d60f0d4b4acfff8",
+      "size_bytes": 17631
+    },
+    {
+      "path": "val/scratch/scratch_008.jpg",
+      "split": "val",
+      "label": "scratch",
+      "sha256": "3393103822539fe456f46d608938ec4d7833072be267e34a596aea35b5bed2cb",
+      "size_bytes": 18182
+    },
+    {
+      "path": "val/scratch/scratch_009.jpg",
+      "split": "val",
+      "label": "scratch",
+      "sha256": "da992dc48ed3ce9693865c6d3070a9079449046952d2a65b2bd71590a8f132a3",
+      "size_bytes": 17903
+    },
+    {
+      "path": "val/stain/stain_000.jpg",
+      "split": "val",
+      "label": "stain",
+      "sha256": "1effe09bff640e81b3eecdc8339f30708825ada545de27565a6e3bd1de905387",
+      "size_bytes": 17634
+    },
+    {
+      "path": "val/stain/stain_001.jpg",
+      "split": "val",
+      "label": "stain",
+      "sha256": "497f15fff157693664c0c4a5a68b15fb81239bf429f1e894a1398682f843b337",
+      "size_bytes": 17666
+    },
+    {
+      "path": "val/stain/stain_002.jpg",
+      "split": "val",
+      "label": "stain",
+      "sha256": "bb489e0225a6098936ab32d66daf3fd0bf7d16d800714c67cf0aeee19daffb5c",
+      "size_bytes": 17628
+    },
+    {
+      "path": "val/stain/stain_003.jpg",
+      "split": "val",
+      "label": "stain",
+      "sha256": "a7330a9731068d6725597aadb57dcee77762d960b9a88ee03bcf86c7b2e527dc",
+      "size_bytes": 17664
+    },
+    {
+      "path": "val/stain/stain_004.jpg",
+      "split": "val",
+      "label": "stain",
+      "sha256": "cbae962c1648d492a2e26e604a0f2837a1e1d69696d31b7727552286cd066468",
+      "size_bytes": 17717
+    },
+    {
+      "path": "val/stain/stain_005.jpg",
+      "split": "val",
+      "label": "stain",
+      "sha256": "b6aef9139604ecc2d54578cb70b3c1ca03da8e719b635c5c43549c89f0e26a8d",
+      "size_bytes": 17613
+    },
+    {
+      "path": "val/stain/stain_006.jpg",
+      "split": "val",
+      "label": "stain",
+      "sha256": "8492230129bed35625149c26bd310bcfc4fadc915ddd1a08ae63232bcf1c4107",
+      "size_bytes": 17624
+    },
+    {
+      "path": "val/stain/stain_007.jpg",
+      "split": "val",
+      "label": "stain",
+      "sha256": "0e314702b10eca5963dc854518b74d38b1efed70715fdecf8efdada82b4bce73",
+      "size_bytes": 17527
+    },
+    {
+      "path": "val/stain/stain_008.jpg",
+      "split": "val",
+      "label": "stain",
+      "sha256": "dcb3a86151c10e46452b1dcccc11ae0c991c60cb0fc46dddf4b86b2980d4c733",
+      "size_bytes": 17613
+    },
+    {
+      "path": "val/stain/stain_009.jpg",
+      "split": "val",
+      "label": "stain",
+      "sha256": "869d0bea315eb0527da9f51d7084a970bb1cd333fe445127ae6fd985192d8054",
+      "size_bytes": 17653
+    },
+    {
+      "path": "test/crack/crack_000.jpg",
+      "split": "test",
+      "label": "crack",
+      "sha256": "36f22315c83534a6de8e4960109e18665891dbcf6fa178f43b352db5b842a616",
+      "size_bytes": 18184
+    },
+    {
+      "path": "test/crack/crack_001.jpg",
+      "split": "test",
+      "label": "crack",
+      "sha256": "4356d2c4ba0564d602f4e8d2b4658a58b56d03acf1738927e37fc06bb8f99f96",
+      "size_bytes": 18058
+    },
+    {
+      "path": "test/crack/crack_002.jpg",
+      "split": "test",
+      "label": "crack",
+      "sha256": "6a4ee0c5287af4874ba4a372b52a05f81d8a56ca99a936154c8b1b4fb9695f4a",
+      "size_bytes": 18019
+    },
+    {
+      "path": "test/crack/crack_003.jpg",
+      "split": "test",
+      "label": "crack",
+      "sha256": "2fe1d60dbf9766cb60ce7b2e545208a300ee31ded0e31914fafcf8a0957ebec2",
+      "size_bytes": 17878
+    },
+    {
+      "path": "test/crack/crack_004.jpg",
+      "split": "test",
+      "label": "crack",
+      "sha256": "f724fe36c8256dbe5beae83313ced08bb7beba30728ac5b2c4c398b09408c986",
+      "size_bytes": 18079
+    },
+    {
+      "path": "test/crack/crack_005.jpg",
+      "split": "test",
+      "label": "crack",
+      "sha256": "f7bfb3db6185a72cc4579cfcc51ba41e64d1a9337d75d1b488da26311f53c5d5",
+      "size_bytes": 17933
+    },
+    {
+      "path": "test/crack/crack_006.jpg",
+      "split": "test",
+      "label": "crack",
+      "sha256": "5c31fd5873f07a38d97ec4dc93f1b85790dc9f5f6e77532b9687922129998735",
+      "size_bytes": 18011
+    },
+    {
+      "path": "test/crack/crack_007.jpg",
+      "split": "test",
+      "label": "crack",
+      "sha256": "c701fb2bb495397f8bdaa4ace0215b9eaba3b41dfb1b45600b90c99127a25547",
+      "size_bytes": 17886
+    },
+    {
+      "path": "test/crack/crack_008.jpg",
+      "split": "test",
+      "label": "crack",
+      "sha256": "5e1ec0b70406ab66afa9bf9e587aa81010adea5467c87daa87b1e015de2e7dd0",
+      "size_bytes": 18070
+    },
+    {
+      "path": "test/crack/crack_009.jpg",
+      "split": "test",
+      "label": "crack",
+      "sha256": "b01d003c7f70a57fd1c2a7df42271330161e2f58052c4e0d755f82a3ae94ee05",
+      "size_bytes": 18520
+    },
+    {
+      "path": "test/crack/crack_010.jpg",
+      "split": "test",
+      "label": "crack",
+      "sha256": "c66e2551ab9ed5dd2623f05b6fff257535e80bbf3cf39c2dd1c9afa4ff61b540",
+      "size_bytes": 17914
+    },
+    {
+      "path": "test/crack/crack_011.jpg",
+      "split": "test",
+      "label": "crack",
+      "sha256": "f50de4a35e0648a75bcf270d2568c21dc4ca3608194665665050420a9051b4e8",
+      "size_bytes": 17785
+    },
+    {
+      "path": "test/crack/crack_012.jpg",
+      "split": "test",
+      "label": "crack",
+      "sha256": "40003db9b1d89149468c8aa91d3bd6605c57f5b9d8c0941770e02f0c9eb24609",
+      "size_bytes": 18061
+    },
+    {
+      "path": "test/crack/crack_013.jpg",
+      "split": "test",
+      "label": "crack",
+      "sha256": "b54579f609db95e00f6575123a9e38e86092f2b142c9b3a38e4e3b4db5565b99",
+      "size_bytes": 18012
+    },
+    {
+      "path": "test/dent/dent_000.jpg",
+      "split": "test",
+      "label": "dent",
+      "sha256": "a082d6dd496ae103a77333c28a7e7fbab5d5b555bd5ce132e8599c10a46413a6",
+      "size_bytes": 17592
+    },
+    {
+      "path": "test/dent/dent_001.jpg",
+      "split": "test",
+      "label": "dent",
+      "sha256": "8f09865cdaacf2be6de3a286600301b73e763e9654682f484e2084f2d85fe3eb",
+      "size_bytes": 17485
+    },
+    {
+      "path": "test/dent/dent_002.jpg",
+      "split": "test",
+      "label": "dent",
+      "sha256": "535f8fc58e86121c25344c84c5c1892af697a6952eb858e980d78e8a69a1ee90",
+      "size_bytes": 17641
+    },
+    {
+      "path": "test/dent/dent_003.jpg",
+      "split": "test",
+      "label": "dent",
+      "sha256": "5c74e4e04a5d5875e95321e91fb2e8b667d7538fdfafc04d2673aae1fdc61387",
+      "size_bytes": 17609
+    },
+    {
+      "path": "test/dent/dent_004.jpg",
+      "split": "test",
+      "label": "dent",
+      "sha256": "bafc25eafcae19ad9e67544c9a41ebe865de74964dd67edbf9bbe7283335a0f4",
+      "size_bytes": 17647
+    },
+    {
+      "path": "test/dent/dent_005.jpg",
+      "split": "test",
+      "label": "dent",
+      "sha256": "01bdae5e15567602fa7c77b400500a591c645ac61dc6c1e35580c687d23b5f15",
+      "size_bytes": 17537
+    },
+    {
+      "path": "test/dent/dent_006.jpg",
+      "split": "test",
+      "label": "dent",
+      "sha256": "b05dec3921ed966a3855687ee53f0aac3e88b845bdbc6c3e4cd4a43cc58c350d",
+      "size_bytes": 17569
+    },
+    {
+      "path": "test/dent/dent_007.jpg",
+      "split": "test",
+      "label": "dent",
+      "sha256": "45ced942f90b69fbed6d4d28c520be1da10576639d6e7bf14ab145909c4534e8",
+      "size_bytes": 17547
+    },
+    {
+      "path": "test/dent/dent_008.jpg",
+      "split": "test",
+      "label": "dent",
+      "sha256": "76c0dcf9f08689fb2c3db65b7c6d77e5197e72f648fc6768dfea4eb59aa5a4f8",
+      "size_bytes": 17529
+    },
+    {
+      "path": "test/dent/dent_009.jpg",
+      "split": "test",
+      "label": "dent",
+      "sha256": "eaca6f9eb2c948fdbc7f3a7e629c9990b43f089ac2445e051e4074c03c633da9",
+      "size_bytes": 17514
+    },
+    {
+      "path": "test/dent/dent_010.jpg",
+      "split": "test",
+      "label": "dent",
+      "sha256": "03186a9e31256f331490cfe7ef5d0aec6fb58c0f8dff908beeb322ed8958bcd1",
+      "size_bytes": 17592
+    },
+    {
+      "path": "test/dent/dent_011.jpg",
+      "split": "test",
+      "label": "dent",
+      "sha256": "c9683251f58d960bee0a8d394970091127eff41f00da3ffb58b3958d3623ff5c",
+      "size_bytes": 17550
+    },
+    {
+      "path": "test/dent/dent_012.jpg",
+      "split": "test",
+      "label": "dent",
+      "sha256": "6c1bf2201023a8b47494470b53046819a27c298be1a2288fd220c4d2f95b8382",
+      "size_bytes": 17637
+    },
+    {
+      "path": "test/dent/dent_013.jpg",
+      "split": "test",
+      "label": "dent",
+      "sha256": "41c2af4a3b53967dac060cb3f7d53f4b10f4c683ab347b77859f6133aa53b7c9",
+      "size_bytes": 17302
+    },
+    {
+      "path": "test/good/good_000.jpg",
+      "split": "test",
+      "label": "good",
+      "sha256": "f5f65b969b790dca24d898536de36e15e0c52de1fdacd2e484aab6a67d69e02e",
+      "size_bytes": 17627
+    },
+    {
+      "path": "test/good/good_001.jpg",
+      "split": "test",
+      "label": "good",
+      "sha256": "20fa24cf8da82d13b4f203f84c520effd4cd1cdf52148a22dbf1bf149f8fd301",
+      "size_bytes": 17532
+    },
+    {
+      "path": "test/good/good_002.jpg",
+      "split": "test",
+      "label": "good",
+      "sha256": "38f026b96ed52a241855bb7e0eaab6de2c0f07cf44ca33e5bab3914ac8211c17",
+      "size_bytes": 17564
+    },
+    {
+      "path": "test/good/good_003.jpg",
+      "split": "test",
+      "label": "good",
+      "sha256": "9c02753c07051286e6e3bf385596c55574db69bc00c84c56fce7d07a5212b2e7",
+      "size_bytes": 17649
+    },
+    {
+      "path": "test/good/good_004.jpg",
+      "split": "test",
+      "label": "good",
+      "sha256": "d39f9e7c9755da3d3bcb8df1d7735b547699868da52475f0a91d6136f5fcfe2a",
+      "size_bytes": 17662
+    },
+    {
+      "path": "test/good/good_005.jpg",
+      "split": "test",
+      "label": "good",
+      "sha256": "92627d6d17061614306cbccf7a96b6033de313cf0bbf3013f59a1a98b7bfe661",
+      "size_bytes": 17594
+    },
+    {
+      "path": "test/good/good_006.jpg",
+      "split": "test",
+      "label": "good",
+      "sha256": "fc39ae8c088cb377f24db6da0169cb78da89197899b802418551478015d9b72a",
+      "size_bytes": 17661
+    },
+    {
+      "path": "test/good/good_007.jpg",
+      "split": "test",
+      "label": "good",
+      "sha256": "e8bc4e83954fab714845845ee2e284f4b38cce3a317703f84150da7610a0fcaa",
+      "size_bytes": 17575
+    },
+    {
+      "path": "test/good/good_008.jpg",
+      "split": "test",
+      "label": "good",
+      "sha256": "69cf84d9ba68fec54ef6b591e485c8fb912d0a48a4dc8b79ef5edd96b1c7a970",
+      "size_bytes": 17559
+    },
+    {
+      "path": "test/good/good_009.jpg",
+      "split": "test",
+      "label": "good",
+      "sha256": "8819a03822b5c243635ac333e84e2afacc6ff00740189fafc7e6c3380fabcf8e",
+      "size_bytes": 17601
+    },
+    {
+      "path": "test/good/good_010.jpg",
+      "split": "test",
+      "label": "good",
+      "sha256": "6ca5df616e0208f20e723ff7e386526561fb0c68c47b08d53b6d772d3de0340a",
+      "size_bytes": 17642
+    },
+    {
+      "path": "test/good/good_011.jpg",
+      "split": "test",
+      "label": "good",
+      "sha256": "06c66cfe9c9302dd805c17cecfa05320590e874f407e15f2c8751467207ce420",
+      "size_bytes": 17556
+    },
+    {
+      "path": "test/good/good_012.jpg",
+      "split": "test",
+      "label": "good",
+      "sha256": "4e4e54faac52ee2226b73b53e4c1fcb1992d582ae4388c07350d3fbb9e0e7ffb",
+      "size_bytes": 17508
+    },
+    {
+      "path": "test/good/good_013.jpg",
+      "split": "test",
+      "label": "good",
+      "sha256": "fb47853dd7b0e9aee83d13b280e9d05388aa00fabff97a8e5bde56d6ea08d26b",
+      "size_bytes": 17670
+    },
+    {
+      "path": "test/scratch/scratch_000.jpg",
+      "split": "test",
+      "label": "scratch",
+      "sha256": "81ed271c2a455174ad9f63b317461e069ecd4060fef3cc74590c293b6ee517a4",
+      "size_bytes": 17965
+    },
+    {
+      "path": "test/scratch/scratch_001.jpg",
+      "split": "test",
+      "label": "scratch",
+      "sha256": "bd83e221d3d6452ae427351915fe0834bb4df04612f574418a037d01694f2e5f",
+      "size_bytes": 17782
+    },
+    {
+      "path": "test/scratch/scratch_002.jpg",
+      "split": "test",
+      "label": "scratch",
+      "sha256": "ee3c012099c42954af38884b176c5c16bdde7a080aec3891c8cd1a7ea951c49c",
+      "size_bytes": 18175
+    },
+    {
+      "path": "test/scratch/scratch_003.jpg",
+      "split": "test",
+      "label": "scratch",
+      "sha256": "2a5d1e373f3012cd8fbf3cc804d47ae96e7aa056cadd561f5c9293e47fb80f41",
+      "size_bytes": 17925
+    },
+    {
+      "path": "test/scratch/scratch_004.jpg",
+      "split": "test",
+      "label": "scratch",
+      "sha256": "1bc635e0296c18dda7689f503e7584863787668ccd7f11c982d4e4d95da131e5",
+      "size_bytes": 18042
+    },
+    {
+      "path": "test/scratch/scratch_005.jpg",
+      "split": "test",
+      "label": "scratch",
+      "sha256": "1496891159f9f7ad71eb5696a87971e31e04ebe6756e41899ea8d9ef7d3f61ab",
+      "size_bytes": 17948
+    },
+    {
+      "path": "test/scratch/scratch_006.jpg",
+      "split": "test",
+      "label": "scratch",
+      "sha256": "8fc693ef80c354a8aab0b37efbcf051b5762182f912b909a38bcc5aba110e838",
+      "size_bytes": 17748
+    },
+    {
+      "path": "test/scratch/scratch_007.jpg",
+      "split": "test",
+      "label": "scratch",
+      "sha256": "4c2f75f07c02b5e79c44c713053e7141d29881eecf653554cacb7649dde22de4",
+      "size_bytes": 17649
+    },
+    {
+      "path": "test/scratch/scratch_008.jpg",
+      "split": "test",
+      "label": "scratch",
+      "sha256": "7651a4c0b7baebd148ed6458940d6d6d02e6fa2cf385a552d88f614253bb4af7",
+      "size_bytes": 17850
+    },
+    {
+      "path": "test/scratch/scratch_009.jpg",
+      "split": "test",
+      "label": "scratch",
+      "sha256": "226ad88406b2de10661f52dd4c7cc91f6c84057affebb213cfe57b39885a3dfd",
+      "size_bytes": 18083
+    },
+    {
+      "path": "test/scratch/scratch_010.jpg",
+      "split": "test",
+      "label": "scratch",
+      "sha256": "e7ece7e9d4cb64145b80955c57395d276f9323067b04ed71a76bea5558d81a83",
+      "size_bytes": 17972
+    },
+    {
+      "path": "test/scratch/scratch_011.jpg",
+      "split": "test",
+      "label": "scratch",
+      "sha256": "3cba9934477e013bf156aa514fc883d824d86e63e5516f216f81918b2bdac137",
+      "size_bytes": 17865
+    },
+    {
+      "path": "test/scratch/scratch_012.jpg",
+      "split": "test",
+      "label": "scratch",
+      "sha256": "e6bfe471eb1743d52aba087b38ec3efbad0129e5f8d7f516258c9b29796f69c9",
+      "size_bytes": 17745
+    },
+    {
+      "path": "test/scratch/scratch_013.jpg",
+      "split": "test",
+      "label": "scratch",
+      "sha256": "cbd96a4f3c58f4028f35bb16881a1d9c3aca1333c33868c47eef0cead8032deb",
+      "size_bytes": 17928
+    },
+    {
+      "path": "test/stain/stain_000.jpg",
+      "split": "test",
+      "label": "stain",
+      "sha256": "d0ff71b37af750df81e75715d6d644fa3c14b82d32642ac84c327991d89d0e86",
+      "size_bytes": 17579
+    },
+    {
+      "path": "test/stain/stain_001.jpg",
+      "split": "test",
+      "label": "stain",
+      "sha256": "bd4e123438f72391dc2ed12a522b52dea148c9040662c21f691891f280a519a6",
+      "size_bytes": 17493
+    },
+    {
+      "path": "test/stain/stain_002.jpg",
+      "split": "test",
+      "label": "stain",
+      "sha256": "0c5444d1f2461144d55fe34117d75b61f154e9cbeb46e9d26f83e6cb46614be9",
+      "size_bytes": 17600
+    },
+    {
+      "path": "test/stain/stain_003.jpg",
+      "split": "test",
+      "label": "stain",
+      "sha256": "0702261d32f43b2531b712d23535b3d450dd7ebb34c7f12415569abc29042dce",
+      "size_bytes": 17640
+    },
+    {
+      "path": "test/stain/stain_004.jpg",
+      "split": "test",
+      "label": "stain",
+      "sha256": "4e03790c0b7cd876bece30c21ddf09f1b229760b6462f70c6fe9a4937ff4e61c",
+      "size_bytes": 17534
+    },
+    {
+      "path": "test/stain/stain_005.jpg",
+      "split": "test",
+      "label": "stain",
+      "sha256": "b3f3841fdd6610f969663820a1558cb009ba87e6e2ad1bb812d936a8f6482279",
+      "size_bytes": 17651
+    },
+    {
+      "path": "test/stain/stain_006.jpg",
+      "split": "test",
+      "label": "stain",
+      "sha256": "d04d1a6482e6c6f87035a3a74b5a5530e97422a78f70286e63bf19c2e18a2e56",
+      "size_bytes": 17587
+    },
+    {
+      "path": "test/stain/stain_007.jpg",
+      "split": "test",
+      "label": "stain",
+      "sha256": "dbbeb03bfb93e7f4c464f37b5534e3477dcaee8636216ab2f020e00c289cb32c",
+      "size_bytes": 17590
+    },
+    {
+      "path": "test/stain/stain_008.jpg",
+      "split": "test",
+      "label": "stain",
+      "sha256": "16362f360b035cb94db8ddda2911f859f5883f15df80c68f904555f2da7458aa",
+      "size_bytes": 17646
+    },
+    {
+      "path": "test/stain/stain_009.jpg",
+      "split": "test",
+      "label": "stain",
+      "sha256": "2b68b801c769d37d96d226db3843291fc7c3803ee4c7577acefd358217a72b68",
+      "size_bytes": 17600
+    },
+    {
+      "path": "test/stain/stain_010.jpg",
+      "split": "test",
+      "label": "stain",
+      "sha256": "473a7fde3131bfbb9b653863cdb05833694755b4c80cb1444d44acaed640213b",
+      "size_bytes": 17590
+    },
+    {
+      "path": "test/stain/stain_011.jpg",
+      "split": "test",
+      "label": "stain",
+      "sha256": "ed4bd324a4499ac01353b7a8284f22ad8d10f66c45432c21f079e797f898ddab",
+      "size_bytes": 17574
+    },
+    {
+      "path": "test/stain/stain_012.jpg",
+      "split": "test",
+      "label": "stain",
+      "sha256": "c69baca189c7fb174c95cd00a0f0afb7c780474dff417a14cc70e8306d7ba2d9",
+      "size_bytes": 17526
+    },
+    {
+      "path": "test/stain/stain_013.jpg",
+      "split": "test",
+      "label": "stain",
+      "sha256": "ed192e0b333ec7ad657f2df3a1a55ab22b14cf43f1539e0d050053045b6052f6",
+      "size_bytes": 17530
+    }
+  ]
+}
