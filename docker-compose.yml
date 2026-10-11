@@ -1,0 +1,57 @@
+services:
+  api:
+    build: .
+    image: defectiq-api:latest
+    container_name: defectiq-api
+    ports:
+      - "8000:8000"
+    environment:
+      DEFECTIQ_DATA_DIR: /app/data
+      DEFECTIQ_ARTIFACT_DIR: /app/artifacts
+      DEFECTIQ_DATABASE_URL: sqlite:////app/data/defectiq.db
+      DEFECTIQ_DEVICE: cpu
+      DEFECTIQ_BOOTSTRAP_MODEL: "1"
+    volumes:
+      - ./artifacts:/app/artifacts
+      - ./data/uploads:/app/data/uploads
+    healthcheck:
+      test:
+        [
+          "CMD",
+          "python",
+          "-c",
+          "import urllib.request; urllib.request.urlopen('http://localhost:8000/health', timeout=5)",
+        ]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 90s
+    restart: unless-stopped
+
+  dashboard:
+    image: defectiq-api:latest
+    container_name: defectiq-dashboard
+    depends_on:
+      api:
+        condition: service_healthy
+    ports:
+      - "8501:8501"
+    environment:
+      DEFECTIQ_DATA_DIR: /app/data
+      DEFECTIQ_ARTIFACT_DIR: /app/artifacts
+      DEFECTIQ_API_URL: http://api:8000
+      DEFECTIQ_DEVICE: cpu
+      STREAMLIT_SERVER_HEADLESS: "true"
+    volumes:
+      - ./artifacts:/app/artifacts
+    command:
+      [
+        "streamlit",
+        "run",
+        "src/defectiq/dashboard/app.py",
+        "--server.port",
+        "8501",
+        "--server.address",
+        "0.0.0.0",
+      ]
+    restart: unless-stopped
