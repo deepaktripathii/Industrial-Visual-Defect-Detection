@@ -1,0 +1,38 @@
+name: ci
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install CPU torch
+        run: |
+          python -m pip install --upgrade pip
+          pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu
+
+      - name: Install project dependencies
+        run: |
+          pip install -r requirements-dev.txt
+          pip install -e .
+
+      - name: Lint
+        run: ruff check src tests scripts
+
+      - name: Run tests
+        run: pytest -q
+
+      - name: Smoke train on the demo dataset
+        run: |
+          python scripts/generate_demo_dataset.py
+          python scripts/train.py --no-pretrained --epochs 1 --image-size 64 --batch-size 16 --skip-eval
