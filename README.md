@@ -157,24 +157,3 @@ docker compose up --build
 
 The image installs CPU PyTorch, bakes the ImageNet weights and trains a baseline
 checkpoint on first boot if none exists.
-
-## Documentation
-
-- [Architecture](docs/architecture.md)
-- [API reference](docs/api.md)
-- [Results](docs/results.md)
-- [Dataset](data/README.md)
-- [Deployment](docs/deployment.md)
-- [Interview notes](docs/interview-notes.md)
-
-## Limitations
-
-- Synthetic corpus; fine-tune on the target line's camera and product variants.
-- 70 test images is small; one error shifts recall by about 1.8 points.
-- Softmax scores are not calibrated; set the threshold from the cost of a missed
-  defect versus a re-inspection.
-- Grad-CAM shows influential regions, not a verified defect mask.
-- No outcome-loop drift detection yet; the prediction log has the fields needed
-  to add one.
-
-MIT licence.

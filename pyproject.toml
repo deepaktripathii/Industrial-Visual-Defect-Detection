@@ -8,12 +8,10 @@ version = "1.0.0"
 description = "Industrial visual defect detection with PyTorch, Grad-CAM and FastAPI"
 readme = "README.md"
 requires-python = ">=3.10"
-license = { text = "MIT" }
 authors = [{ name = "Deepak Tripathi" }]
 keywords = ["computer-vision", "pytorch", "deep-learning", "grad-cam", "fastapi", "manufacturing"]
 classifiers = [
     "Programming Language :: Python :: 3",
-    "License :: OSI Approved :: MIT License",
     "Operating System :: OS Independent",
 ]
 
