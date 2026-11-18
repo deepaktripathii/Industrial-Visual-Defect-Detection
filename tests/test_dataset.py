@@ -6,9 +6,9 @@ import shutil
 
 import pytest
 
-from defectiq.data.analysis import balance_report, class_distribution
-from defectiq.data.dataset import DatasetLayoutError, class_weights, discover_dataset
-from defectiq.data.splits import compute_manifest, load_manifest, verify_manifest
+from defect_detection.data.analysis import balance_report, class_distribution
+from defect_detection.data.dataset import DatasetLayoutError, class_weights, discover_dataset
+from defect_detection.data.splits import compute_manifest, load_manifest, verify_manifest
 
 
 def test_discover_dataset_counts(tiny_dataset):

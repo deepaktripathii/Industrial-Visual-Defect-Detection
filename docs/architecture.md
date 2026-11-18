@@ -59,19 +59,19 @@ POST /predict (multipart)
 
 | Path | Responsibility |
 | --- | --- |
-| `src/defectiq/config.py` | Paths, image size, training and threshold settings |
-| `src/defectiq/data/dataset.py` | Discovery, ImageFolder loaders, class weights |
-| `src/defectiq/data/splits.py` | Hashing, split manifest, leakage verification |
-| `src/defectiq/data/analysis.py` | Class distribution, balance, image stats, preview grid |
-| `src/defectiq/preprocessing/transforms.py` | Train/eval transforms, validation, RGB, denormalise |
-| `src/defectiq/modeling/model.py` | ResNet18 builder, checkpoint save/load, versioning |
-| `src/defectiq/modeling/trainer.py` | Epoch loop, freeze/unfreeze, early stopping, history |
-| `src/defectiq/modeling/evaluate.py` | Binary + multiclass metrics, test report, model card |
-| `src/defectiq/explain/gradcam.py` | Grad-CAM hooks, heatmap, overlay PNG |
-| `src/defectiq/inference/predictor.py` | Single/batch prediction, explanations, metadata |
-| `src/defectiq/db/` | Prediction records and monitoring aggregates |
-| `src/defectiq/api/` | FastAPI routes and schemas |
-| `src/defectiq/dashboard/` | Streamlit UI (inspect, model, monitoring, dataset) |
+| `src/defect_detection/config.py` | Paths, image size, training and threshold settings |
+| `src/defect_detection/data/dataset.py` | Discovery, ImageFolder loaders, class weights |
+| `src/defect_detection/data/splits.py` | Hashing, split manifest, leakage verification |
+| `src/defect_detection/data/analysis.py` | Class distribution, balance, image stats, preview grid |
+| `src/defect_detection/preprocessing/transforms.py` | Train/eval transforms, validation, RGB, denormalise |
+| `src/defect_detection/modeling/model.py` | ResNet18 builder, checkpoint save/load, versioning |
+| `src/defect_detection/modeling/trainer.py` | Epoch loop, freeze/unfreeze, early stopping, history |
+| `src/defect_detection/modeling/evaluate.py` | Binary + multiclass metrics, test report, model card |
+| `src/defect_detection/explain/gradcam.py` | Grad-CAM hooks, heatmap, overlay PNG |
+| `src/defect_detection/inference/predictor.py` | Single/batch prediction, explanations, metadata |
+| `src/defect_detection/db/` | Prediction records and monitoring aggregates |
+| `src/defect_detection/api/` | FastAPI routes and schemas |
+| `src/defect_detection/dashboard/` | Streamlit UI (inspect, model, monitoring, dataset) |
 | `scripts/` | Dataset generation, train, evaluate, predict, benchmark, simulation |
 | `tests/` | 52 offline tests with a tiny Pillow-drawn dataset |
 

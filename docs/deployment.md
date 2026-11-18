@@ -4,14 +4,14 @@
 
 | Variable | Default | Purpose |
 | --- | --- | --- |
-| `DEFECTIQ_DATASET_DIR` | `./data/demo_dataset` | train/val/test folders |
-| `DEFECTIQ_ARTIFACT_DIR` | `./artifacts` | checkpoints, reports, benchmark |
-| `DEFECTIQ_DATABASE_URL` | SQLite in `data/` | inspection log |
-| `DEFECTIQ_IMAGE_SIZE` | `224` | must match the checkpoint |
-| `DEFECTIQ_DEFECTIVE_THRESHOLD` | `0.5` | binary accept/reject cut-off |
-| `DEFECTIQ_DEVICE` | `auto` | `cpu`, `cuda`, `mps` or `auto` |
-| `DEFECTIQ_BATCH_SIZE` | `32` | evaluation batch size |
-| `DEFECTIQ_MAX_UPLOAD_MB` | `10` | upload guard |
+| `DEFECT_DATASET_DIR` | `./data/demo_dataset` | train/val/test folders |
+| `DEFECT_ARTIFACT_DIR` | `./artifacts` | checkpoints, reports, benchmark |
+| `DEFECT_DATABASE_URL` | SQLite in `data/` | inspection log |
+| `DEFECT_IMAGE_SIZE` | `224` | must match the checkpoint |
+| `DEFECT_DEFECTIVE_THRESHOLD` | `0.5` | binary accept/reject cut-off |
+| `DEFECT_DEVICE` | `auto` | `cpu`, `cuda`, `mps` or `auto` |
+| `DEFECT_BATCH_SIZE` | `32` | evaluation batch size |
+| `DEFECT_MAX_UPLOAD_MB` | `10` | upload guard |
 
 ## Local
 
@@ -19,8 +19,8 @@
 pip install -r requirements.txt && pip install -e .
 python scripts/generate_demo_dataset.py
 python scripts/train.py
-uvicorn defectiq.api.main:app --reload
-streamlit run src/defectiq/dashboard/app.py
+uvicorn defect_detection.api.main:app --reload
+streamlit run src/defect_detection/dashboard/app.py
 ```
 
 ## Docker Compose
@@ -34,7 +34,7 @@ docker compose up --build
 The image installs CPU PyTorch, bakes the ImageNet weights, and the entrypoint
 trains a baseline model if `artifacts/models/resnet18_defect.pt` is missing. The
 `artifacts/` volume keeps the checkpoint between restarts; set
-`DEFECTIQ_BOOTSTRAP_MODEL=0` to start without training.
+`DEFECT_BOOTSTRAP_MODEL=0` to start without training.
 
 ## GPU
 
@@ -49,7 +49,7 @@ services:
   api:
     build: .
     environment:
-      DEFECTIQ_DEVICE: cuda
+      DEFECT_DEVICE: cuda
     deploy:
       resources:
         reservations:

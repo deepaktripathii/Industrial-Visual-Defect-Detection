@@ -7,8 +7,8 @@ import pytest
 import torch
 from PIL import Image
 
-from defectiq.explain.gradcam import GradCAM, overlay_heatmap, overlay_png_bytes
-from defectiq.modeling.model import load_checkpoint
+from defect_detection.explain.gradcam import GradCAM, overlay_heatmap, overlay_png_bytes
+from defect_detection.modeling.model import load_checkpoint
 
 
 def test_gradcam_returns_normalised_heatmap(trained_settings):

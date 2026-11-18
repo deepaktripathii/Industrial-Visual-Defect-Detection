@@ -19,14 +19,14 @@ SRC_DIR = Path(__file__).resolve().parents[1] / "src"
 if str(SRC_DIR) not in sys.path:
     sys.path.insert(0, str(SRC_DIR))
 
-from defectiq.config import get_settings  # noqa: E402
-from defectiq.data.splits import save_manifest  # noqa: E402
-from defectiq.modeling.evaluate import (  # noqa: E402
+from defect_detection.config import get_settings  # noqa: E402
+from defect_detection.data.splits import save_manifest  # noqa: E402
+from defect_detection.modeling.evaluate import (  # noqa: E402
     evaluate_test_split,
     save_report,
     write_model_card,
 )
-from defectiq.modeling.trainer import train_model  # noqa: E402
+from defect_detection.modeling.trainer import train_model  # noqa: E402
 
 CLASSES = ("good", "scratch", "dent", "crack", "stain")
 SPLIT_SIZES = {"train": 4, "val": 2, "test": 2}
@@ -100,7 +100,7 @@ def tiny_dataset(tmp_settings):
 
 @pytest.fixture(scope="session")
 def trained_settings(tmp_path_factory: pytest.TempPathFactory):
-    base = get_settings().with_storage(tmp_path_factory.mktemp("defectiq-artifacts"))
+    base = get_settings().with_storage(tmp_path_factory.mktemp("defect_detection-artifacts"))
     settings = replace(
         base,
         image_size=IMAGE_SIZE,

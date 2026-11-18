@@ -6,7 +6,7 @@ from pathlib import Path
 
 import pytest
 
-from defectiq.inference.predictor import DefectPredictor, ModelNotReadyError
+from defect_detection.inference.predictor import DefectPredictor, ModelNotReadyError
 
 
 @pytest.fixture()

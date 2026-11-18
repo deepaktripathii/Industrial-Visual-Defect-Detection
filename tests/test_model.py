@@ -4,7 +4,7 @@ from __future__ import annotations
 
 import torch
 
-from defectiq.modeling.model import (
+from defect_detection.modeling.model import (
     build_model,
     load_checkpoint,
     make_version,

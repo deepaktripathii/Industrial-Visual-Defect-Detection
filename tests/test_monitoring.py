@@ -4,7 +4,7 @@ from __future__ import annotations
 
 import pytest
 
-from defectiq.db.repository import Repository
+from defect_detection.db.repository import Repository
 
 
 @pytest.fixture()

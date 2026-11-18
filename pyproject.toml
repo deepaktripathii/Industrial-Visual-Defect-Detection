@@ -3,7 +3,7 @@ requires = ["setuptools>=68"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "defectiq"
+name = "defect_detection"
 version = "1.0.0"
 description = "Industrial visual defect detection with PyTorch, Grad-CAM and FastAPI"
 readme = "README.md"
@@ -37,6 +37,6 @@ ignore = ["E501"]
 [tool.ruff.lint.per-file-ignores]
 "scripts/*.py" = ["E402"]
 "tests/*.py" = ["E402"]
-"src/defectiq/dashboard/app.py" = ["E402"]
+"src/defect_detection/dashboard/app.py" = ["E402"]
 # FastAPI dependency injection requires the File() call in the signature.
-"src/defectiq/api/main.py" = ["B008"]
+"src/defect_detection/api/main.py" = ["B008"]

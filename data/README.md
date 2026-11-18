@@ -46,7 +46,7 @@ Why synthetic images are acceptable here:
 
 ## Using a real dataset
 
-Point `DEFECTIQ_DATASET_DIR` at any folder with `train/`, `val/`, `test/`
+Point `DEFECT_DATASET_DIR` at any folder with `train/`, `val/`, `test/`
 subfolders and one folder per class, with the defect-free class named `good`.
 No code changes are required.
 
@@ -54,7 +54,7 @@ Recommended minimums: ~100 images per class for fine-tuning, stratified by
 product variant, camera and lighting. Re-run the split manifest afterwards:
 
 ```bash
-python -c "from defectiq.data.splits import save_manifest; save_manifest('path/to/dataset')"
+python -c "from defect_detection.data.splits import save_manifest; save_manifest('path/to/dataset')"
 python scripts/train.py --data-dir path/to/dataset
 ```
 

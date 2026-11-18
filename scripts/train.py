@@ -16,15 +16,15 @@ from pathlib import Path
 import pandas as pd
 
 import _bootstrap  # noqa: F401  (adds src/ to sys.path)
-from defectiq.config import get_settings
-from defectiq.data.dataset import discover_dataset
-from defectiq.data.splits import load_manifest, verify_manifest
-from defectiq.modeling.evaluate import evaluate_test_split, save_report, write_model_card
-from defectiq.modeling.trainer import train_model
+from defect_detection.config import get_settings
+from defect_detection.data.dataset import discover_dataset
+from defect_detection.data.splits import load_manifest, verify_manifest
+from defect_detection.modeling.evaluate import evaluate_test_split, save_report, write_model_card
+from defect_detection.modeling.trainer import train_model
 
 
 def parse_args(argv: list[str] | None = None) -> argparse.Namespace:
-    parser = argparse.ArgumentParser(description="Train the DefectIQ classifier.")
+    parser = argparse.ArgumentParser(description="Train the Visual Defect Detection classifier.")
     parser.add_argument("--data-dir", default=None, help="Dataset root (train/val/test).")
     parser.add_argument("--artifacts", default=None, help="Artifact directory.")
     parser.add_argument("--epochs", type=int, default=None)
@@ -112,7 +112,7 @@ def main(argv: list[str] | None = None) -> int:
         print(f"\nReport : {settings.evaluation_path}")
         print(f"Card   : {settings.model_card_path}")
 
-    print("\nNext: uvicorn defectiq.api.main:app --reload")
+    print("\nNext: uvicorn defect_detection.api.main:app --reload")
     return 0
 
 

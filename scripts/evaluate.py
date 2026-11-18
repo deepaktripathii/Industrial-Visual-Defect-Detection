@@ -14,8 +14,8 @@ import json
 import pandas as pd
 
 import _bootstrap  # noqa: F401  (adds src/ to sys.path)
-from defectiq.config import get_settings
-from defectiq.modeling.evaluate import (
+from defect_detection.config import get_settings
+from defect_detection.modeling.evaluate import (
     evaluate_test_split,
     save_report,
     write_model_card,

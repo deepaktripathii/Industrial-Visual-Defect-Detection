@@ -4,7 +4,7 @@ from __future__ import annotations
 
 from pathlib import Path
 
-from defectiq.modeling.trainer import load_history, train_model
+from defect_detection.modeling.trainer import load_history, train_model
 
 
 def test_training_writes_checkpoint_and_history(tmp_settings, tiny_dataset):

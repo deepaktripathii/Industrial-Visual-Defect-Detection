@@ -21,8 +21,8 @@ import cv2
 import numpy as np
 
 import _bootstrap  # noqa: F401  (adds src/ to sys.path)
-from defectiq.config import get_settings
-from defectiq.data.splits import save_manifest
+from defect_detection.config import get_settings
+from defect_detection.data.splits import save_manifest
 
 CLASSES = ("good", "scratch", "dent", "crack", "stain")
 SPLIT_SIZES = {"train": 40, "val": 10, "test": 14}

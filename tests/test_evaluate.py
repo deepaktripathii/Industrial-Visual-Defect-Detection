@@ -5,7 +5,7 @@ from __future__ import annotations
 import numpy as np
 import pytest
 
-from defectiq.modeling.evaluate import (
+from defect_detection.modeling.evaluate import (
     compute_binary_metrics,
     compute_multiclass_metrics,
     evaluate_test_split,

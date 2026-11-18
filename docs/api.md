@@ -65,7 +65,7 @@ Errors:
 | Status | Meaning |
 | --- | --- |
 | 400 | Empty file, not a decodable image |
-| 413 | File larger than `DEFECTIQ_MAX_UPLOAD_MB` |
+| 413 | File larger than `DEFECT_MAX_UPLOAD_MB` |
 | 500 | Inference failure (logged with `status=failed`) |
 | 503 | No checkpoint loaded |
 

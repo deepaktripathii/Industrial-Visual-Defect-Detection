@@ -6,9 +6,9 @@ ENV PYTHONDONTWRITEBYTECODE=1 \
     PYTHONUNBUFFERED=1 \
     PIP_NO_CACHE_DIR=1 \
     PYTHONPATH=/app/src \
-    DEFECTIQ_DATA_DIR=/app/data \
-    DEFECTIQ_ARTIFACT_DIR=/app/artifacts \
-    DEFECTIQ_DEVICE=cpu
+    DEFECT_DATA_DIR=/app/data \
+    DEFECT_ARTIFACT_DIR=/app/artifacts \
+    DEFECT_DEVICE=cpu
 
 WORKDIR /app
 
@@ -37,6 +37,6 @@ COPY docker-entrypoint.sh /usr/local/bin/docker-entrypoint.sh
 RUN pip install --no-deps -e . && chmod +x /usr/local/bin/docker-entrypoint.sh
 
 ENTRYPOINT ["docker-entrypoint.sh"]
-CMD ["uvicorn", "defectiq.api.main:app", "--host", "0.0.0.0", "--port", "8000"]
+CMD ["uvicorn", "defect_detection.api.main:app", "--host", "0.0.0.0", "--port", "8000"]
 
 EXPOSE 8000

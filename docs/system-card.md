@@ -2,7 +2,7 @@
 
 ## What it is
 
-DefectIQ is a supervised image classifier that decides whether a product image
+Visual Defect Detection is a supervised image classifier that decides whether a product image
 shows a defect, predicts the defect type, and highlights the influential image
 region with Grad-CAM. It is packaged as a FastAPI service with an inspection log
 and a Streamlit dashboard.

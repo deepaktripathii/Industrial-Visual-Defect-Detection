@@ -6,7 +6,7 @@ import numpy as np
 import pytest
 from PIL import Image
 
-from defectiq.preprocessing.transforms import (
+from defect_detection.preprocessing.transforms import (
     ImageValidationError,
     build_eval_transform,
     build_train_transform,

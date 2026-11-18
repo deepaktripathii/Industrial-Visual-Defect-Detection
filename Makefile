@@ -27,10 +27,10 @@ simulate:
 	python scripts/simulate_inspections.py --n 60
 
 api:
-	uvicorn defectiq.api.main:app --reload --port 8000
+	uvicorn defect_detection.api.main:app --reload --port 8000
 
 dashboard:
-	streamlit run src/defectiq/dashboard/app.py
+	streamlit run src/defect_detection/dashboard/app.py
 
 test:
 	python -m pytest -q
@@ -39,7 +39,7 @@ lint:
 	ruff check src tests scripts
 
 docker-build:
-	docker build -t defectiq-api:latest .
+	docker build -t defect_detection-api:latest .
 
 docker-up:
 	docker compose up --build

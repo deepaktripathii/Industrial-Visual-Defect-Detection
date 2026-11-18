@@ -14,8 +14,8 @@ import json
 from pathlib import Path
 
 import _bootstrap  # noqa: F401  (adds src/ to sys.path)
-from defectiq.config import get_settings
-from defectiq.inference.predictor import DefectPredictor
+from defect_detection.config import get_settings
+from defect_detection.inference.predictor import DefectPredictor
 
 
 def main(argv: list[str] | None = None) -> int:
